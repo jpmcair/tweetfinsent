@@ -1,0 +1,5002 @@
+[
+    {
+      "Tweet_ID": 1410727730274963000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1397723728063181000,
+      "Target_Ticker": "AMC",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1364679929795924000,
+      "Target_Ticker": "AMC",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1372888039970726000,
+      "Target_Ticker": "TSLA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1341486412554760000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354546573724709000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1359067822798832000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1402509643885298000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1428124746143605000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1429599448536080000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1407820764192051000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1427965775529263000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1364324591087321000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1371556791386042000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354840074618348000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1355301603486687000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1355557464104718000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1393246483722359000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1397402792889827000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1400182017690681000,
+      "Target_Ticker": "BBBY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1300860358337458000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1330913373115068000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1392086007898538000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1356968546232918000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354122941257007000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1361677647709942000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1334149196522394000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1357330606259069000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1356597229620920000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1322176462863143000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1355247063123034000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354809846852272000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354503751902622000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1400717968133308000,
+      "Target_Ticker": "BBBY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1362411037476098000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1377403157936964000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1423614224933310000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354198588205785000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1315489778410848000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1387691213181096000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1321111267688378000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1356799127355601000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1348968421690630000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354867913107378000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1400831791800324000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1359540970430333000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1347296493934436000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1418614229205127000,
+      "Target_Ticker": "SHOP",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1370088731877765000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1353703783923126000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1417497289631932000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1430632330306150000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1331669601541714000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1355901754097992000,
+      "Target_Ticker": "BBBY",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1352648043242390000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1420103072756519000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1424543263826973000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1365139611819930000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354475363607474000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354889786843165000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1422015822856339000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1339246126982164000,
+      "Target_Ticker": "SHOP",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1359887300851880000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1425127348324667000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1304146828393353000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1359170396730319000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354878139155931000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1334297054835864000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1396074625898066000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1359136563830034000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1422706292989256000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1352699980339884000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1376643300288045000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1369469787508593000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354678636499104000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1334605718901711000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354824930412532000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1344653796287390000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1404766299130061000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1356346602638729000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1336310589476332000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1379553884503429000,
+      "Target_Ticker": "VIAC",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354815321484366000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1420348695565021000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1353400883418067000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354510355276440000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1354782385984909000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1396913367051342000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354817204156469000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1338410893743415000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1402659396073800000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354450289777107000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1401680741768040000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1380151072342295000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1430925168872935000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1412723840199893000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354967706869461000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1325809168020894000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1355258187356758000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1404378146368115000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1359270597771989000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1355600970323997000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1397735588908966000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1353816702195266000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1367407884397666000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1409852518998422000,
+      "Target_Ticker": "SHOP",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1301468966393709000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1353641468057907000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354870283165905000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1356335273932714000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1351885351820915000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1408396040743576000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1376580456506921000,
+      "Target_Ticker": "VIAC",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1407341368410771000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1429026707693097000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1430234571753198000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354468531987952000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1356422295510610000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1353924258947240000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1370357872962413000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1346908624279409000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1353810800696304000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1400167842218185000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1375512374464029000,
+      "Target_Ticker": "VIAC",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1347287858365739000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1431267696822338000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1357425525099123000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1420804976729760000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1389596337654538000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1427417214370697000,
+      "Target_Ticker": "PSFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1411004417629950000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1425746679299547000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1367443341584069000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1390300473945637000,
+      "Target_Ticker": "VIAC",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1361693403537285000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1419648135094104000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1427700634883662000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1371628249445511000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1400190871677587000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1326898096396231000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1351362963869991000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1402270421492318000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1379976648200688000,
+      "Target_Ticker": "SHOP",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1400786840265822000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1355191285221614000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1359894436294111000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1356298258155332000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1412850820253733000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1399783480616120000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1305731977333617000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1395844323564999000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1356788153605054000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1362154502657294000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1333391580225442000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1356678712599720000,
+      "Target_Ticker": "GME",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1413502371188158000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1410957539945193000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1328785502867223000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1331262808940491000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1405852001653727000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354469986434216000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1392448783317750000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1355160297514938000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354623715892367000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1320994371144208000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1427849350105821000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1402616779361427000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1401885113747612000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1425823340539781000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1329403886453608000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1428504671564440000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354892404093034000,
+      "Target_Ticker": "BBBY",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1402624368270795000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1380702434021020000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1355244692150096000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1408494966016467000,
+      "Target_Ticker": "SOFI",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1354798446369190000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354884878530195000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1328780341725852000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1419744607181500000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1313862469891371000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1400570223930057000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1425836595161100000,
+      "Target_Ticker": "SOFI",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1349439670334222000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1404661293525602000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1370481048967127000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1367466117195850000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1409326956483690000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1412485651434443000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1423102174708609000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1334038604406993000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354820935279202000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1432787070536331000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1359248818806485000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1372202766005834000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1357014913080840000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1367132455006851000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1334904957800247000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354700872622748000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1414937665003262000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1324332970191323000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354976012753273000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1359546789758722000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1417476527634141000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1364693840297398000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1386488290782548000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1344051503493906000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1329120462471881000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1432475932338672000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1355649196976554000,
+      "Target_Ticker": "BBBY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354806099304620000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1432343883107668000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1329783170573742000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354842515250274000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1359991243258831000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1418275400468230000,
+      "Target_Ticker": "SOFI",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1400436481584370000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354789753556771000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1388254258688971000,
+      "Target_Ticker": "XOM",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1341888377751220000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1422527803132576000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1359508496170045000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1337954058196414000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354841252286624000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1415664648569852000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1325900929963594000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1347682834933293000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354888979313639000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1414247439918264000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1349425173850694000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1356413435240571000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1355146898374590000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1359018461775737000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1364941016369934000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1403098762587816000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1402569282375070000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1359964541648589000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1367888479179379000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1417940905227702000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1410466937520357000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1431366586321936000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1392202020229161000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1341217785054052000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1342244668805792000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1349545554661896000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1387097721249489000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1425122972751344000,
+      "Target_Ticker": "SOFI",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1311288022294344000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1405896883969704000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1353023205892641000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1360262703441449000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1363857441277047000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1361747223759962000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1399775739235480000,
+      "Target_Ticker": "SOFI",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354472885075767000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1314192472109711000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1366391817789460000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1359534917235995000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1369337213562085000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1387607435683287000,
+      "Target_Ticker": "SHOP",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1310588926596268000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1412934012595675000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1372325285157294000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1365275506040398000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1347563951521845000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1420953594694566000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1417561471601500000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1392888826528510000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354856759081361000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1336073920756277000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1348902979756298000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1362502456001892000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1346890046796935000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1337142523756732000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1364698060337664000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1324463985194918000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1383068794239775000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1367999907420897000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1410687519146971000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1400073442725073000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354757146735423000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354476783228346000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1356279299809096000,
+      "Target_Ticker": "GME",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1357320858340102000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1429866762032534000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1333901635140149000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1402729054369772000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1362486454362935000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354935736315892000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354528928556343000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354156363878969000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354564188060832000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1321894603373634000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1430009509813043000,
+      "Target_Ticker": "SHOP",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1353145185316856000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1362068356241703000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1371491129321947000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1382737336132370000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1403001275822744000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1305961155953750000,
+      "Target_Ticker": "TSLA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1375052867183251000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1402575633327165000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1339011762759340000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1405008799753196000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1367517695487443000,
+      "Target_Ticker": "XOM",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1334942965270245000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354486536180535000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1397545632408211000,
+      "Target_Ticker": "XOM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1358406286635901000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1354460656586658000,
+      "Target_Ticker": "BBBY",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1360261047546962000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1400505225895547000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354785182889497000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1354737507972342000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1365377961424265000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1387458074420466000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1407552387452215000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354412309053985000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1402667077572432000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1332343044616569000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1380338549371904000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1370140910399410000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1400260174376489000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1417672996647440000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1404772660610056000,
+      "Target_Ticker": "CRSR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1323367645824098000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354767339347206000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1422768985813230000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1359246008832713000,
+      "Target_Ticker": "SHOP",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354920760888930000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1380522298982171000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354912442086797000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1381921590363836000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1355059239836766000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354121351943123000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1428526759205540000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1402245218913636000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1333511704265847000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1348957091113918000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1346536050848502000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1425814252707791000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1367485041744507000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1379187933895352000,
+      "Target_Ticker": "VIAC",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1400893314782491000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1420087503437042000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1354880183182926000,
+      "Target_Ticker": "BBBY",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1429869000364741000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1408072127849189000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1326536158222803000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1329074395919184000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1355913139645264000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1382065781094093000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1421951047346557000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1349507139560239000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354848420092129000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1423707463027610000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1380133012914987000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1365469182352097000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1344063226003259000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1402364299344028000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1408077554377019000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354687314690236000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1313527783004533000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1384870318804775000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1417481868635673000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1351799350645699000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1377319189434806000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1429820968424329000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1350070963300409000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1401978673327116000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1402284401283658000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1354277755580518000,
+      "Target_Ticker": "CRSR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1395361680994050000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1355546324905693000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354473584589218000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1432723210542490000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1336377548800975000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1359507802243424000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1355151441900528000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1429811766482153000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1332418699735802000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1329496488154718000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1432549431338021000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1353821390210740000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1359222164285759000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1367973051258831000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1349506365413347000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1348963354057060000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1357380302633636000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354446571363045000,
+      "Target_Ticker": "BBBY",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1333394945915359000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1326613526702481000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1412451672253768000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1391905091519607000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1366569388644524000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1428352114778993000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1317047844721717000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1345925958243643000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1392849281787343000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1346282844503601000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1355019220996641000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1392862296796508000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1401931616671437000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1350559229518750000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1348298885387723000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1328354207762625000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1394136858158846000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1362783105988375000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1400308230413341000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1326170972098097000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1354013629679620000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1428383556414460000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1423338410241049000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1328798150413443000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1427402319428129000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1387456130645955000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1422393811980849000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1430512978391089000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1400604868658831000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1395291144280367000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1357089609167987000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1330860951000605000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1357514984218112000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1403188039635984000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1338968484730995000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1367521454271713000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1409598252564025000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354933055291609000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1422704276279865000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1367933861892551000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1402356065275191000,
+      "Target_Ticker": "SOFI",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1333591885810598000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354798189044523000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1408214694892954000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1353805529961947000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1326592326073020000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1363438821153604000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1357338416472420000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1329529379232346000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354224525060268000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1366842597717680000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1354818509964861000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354584666033050000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1355161341363950000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1339422400723767000,
+      "Target_Ticker": "SHOP",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1326965614284517000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1355946253075575000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1366564161426178000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1428040277684539000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1427295960309371000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1301152363168883000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1425583364975653000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1407478397132018000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1372565141170971000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1426104005671801000,
+      "Target_Ticker": "SOFI",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1377604256673497000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1381400478697849000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1359861326454129000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1425846310976967000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1349932092767932000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1368318498070532000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1359719563601019000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1372596909748019000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1383063500499616000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1381715865540964000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1339855741734302000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1429513855311311000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1377866598850118000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1379869042375324000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1331675837691662000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1360271507272917000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1357795793441333000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1408213362702316000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1357786768515478000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1316733929546813000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1355240519807496000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1384323887580729000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1326212614712648000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1365102497619149000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1391894477204247000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1427676398366384000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1385266609854484000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354884623554269000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1420211554880877000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1407307889451188000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1356991735696613000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1403115393712112000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1309181502559789000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1382755454363795000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1332341182345728000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1410242203574800000,
+      "Target_Ticker": "SOFI",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1358822976205033000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1406968319584899000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1365004669353816000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1356325087671157000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1404527131292574000,
+      "Target_Ticker": "CRSR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1351631596319875000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1415757851000250000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1423745883628196000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1374412503220851000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1355987686918550000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1369206414284100000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354838948753908000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1301603099690369000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1414252502178877000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1390336740229976000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1410296771285299000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1328443370071597000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354514433075196000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1324782585743090000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354199004511310000,
+      "Target_Ticker": "BBBY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1380230678105616000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1404838134244913000,
+      "Target_Ticker": "XOM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354454801891742000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354781365796024000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1420792120164553000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1347143237656576000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1355185972623757000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1350184471299953000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1357680643132555000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1316026656406950000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1356656149638963000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354844744275415000,
+      "Target_Ticker": "BBBY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1339571436415930000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1354504488099279000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1360238645479883000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1362872503618707000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354408730062770000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1380524663525245000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1392177486721692000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1358754543891321000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1361713973612204000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1379498688670704000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1420700927795679000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1423606744350069000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1301210164813537000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1355198854358995000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354568980707602000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354543829790159000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1316771673299845000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1356618727513616000,
+      "Target_Ticker": "XOM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1327301453887771000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1326902588122542000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1413138631535981000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1402324975529439000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1339254028413379000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1334210874198856000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1382054576686203000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354291928800653000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354823862014284000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354911543922582000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1333869851635556000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1404764119685911000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1363975419674972000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1346185870068515000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1349424225736667000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1362794305098760000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1404454815527105000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1430520418683785000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1400190239419818000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1333803852643004000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1347290219108835000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1409931978003169000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354780218947490000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354637794686218000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1382389246519022000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1408526547024331000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1404644307575841000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1422578714508939000,
+      "Target_Ticker": "CRSR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1413130074530877000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1355592061106459000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1393276589086024000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1400404317006287000,
+      "Target_Ticker": "BBBY",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1408829783509717000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1408418814384091000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1338627076262400000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1422939342708871000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1392080567781495000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1325939064692859000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1324329652861739000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1432489222397698000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1333778018775536000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1400471266105061000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1354779780768551000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1339429036121088000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354821953295507000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1376606600216072000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1370136680896860000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354884384860606000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1300725712379412000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1359164867194798000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1349676763455095000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1408564864512139000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1410324584981799000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1318280843232764000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1430183100194173000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1374430133482791000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1384502847253926000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1425783883769934000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1419663544253964000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1301838131977650000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1404458267380748000,
+      "Target_Ticker": "CRSR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1355228811755999000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1356329124604695000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1362426925998834000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1415252786019713000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1407336893453378000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1326499528216879000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1318551215559631000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1363674754356367000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1417117830324048000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1412856886676840000,
+      "Target_Ticker": "SHOP",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1355325527339491000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1352611144695837000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1396902562670936000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1406988070151283000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1420369995968754000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1407502147848180000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1325823295346840000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1326223298171003000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1356610408837079000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354526960546767000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1339259831153172000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1325798697876263000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1423414913645433000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1399844377493709000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1427608757811532000,
+      "Target_Ticker": "SOFI",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1400230315910517000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1361503438820028000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1398335853903102000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1356576122247336000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1400494915218518000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1382927245447090000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1418076691658838000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1359393868819681000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1359168963301806000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1351609403493872000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1354628224001708000,
+      "Target_Ticker": "BBBY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1316978358949827000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354650511635603000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1313156135348826000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1387245614941958000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1370426324486029000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1421108690028048000,
+      "Target_Ticker": "XOM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354468816936260000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1356274601228202000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1427527339282510000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1339580196702155000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1361657557341925000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1405479085783011000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354796066047226000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1364571706552054000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1331639664185369000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354979432910316000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1400850209878467000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1344556688448365000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1367477829152236000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1347470325781570000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1362453777912111000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1349084405915148000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1400530003931152000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1357350222859407000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1415768707712918000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1356496717391274000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1373990191657009000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1369612974755840000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1321149798951649000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1353888645707608000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1364309553047863000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1357333022509576000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1409490256538255000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1422985978067649000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1357746200825455000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1407072127715402000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1413260451534750000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1364692301428257000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1400100189168415000,
+      "Target_Ticker": "BBBY",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1313464092636713000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1310973004961051000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1399797603924120000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1365003999615865000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354637455584944000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354556492393968000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1402331335738417000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1429648532798022000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1429640430132543000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1379888988484407000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354816311319089000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1358909759542317000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1356620812241916000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1341393150515048000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1329521839559774000,
+      "Target_Ticker": "SHOP",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1387840341978411000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1355247938906296000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354935552940925000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1409897378891526000,
+      "Target_Ticker": "SOFI",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1355165067315192000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1401892711280431000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1379788455975260000,
+      "Target_Ticker": "VIAC",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1328310297501856000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1400427583121015000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1400157219375751000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1341416310345970000,
+      "Target_Ticker": "SHOP",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1425815733179621000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1423268703920087000,
+      "Target_Ticker": "VIAC",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1376533577593053000,
+      "Target_Ticker": "VIAC",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1364269508752511000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354541101844210000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1357692396377682000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1413161107032773000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1344075424243065000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354809300590313000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354783759950893000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1380541217021129000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1402344068521333000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1402390699450933000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1326022107973751000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354230872518521000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1314222141852856000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1355207540016091000,
+      "Target_Ticker": "BBBY",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1339069164875620000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1414168836878840000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1369404270731272000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1333897711507157000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1418661962662117000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1333420216403993000,
+      "Target_Ticker": "SHOP",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1424652923242369000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1428070813912248000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1429983610086564000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1391928904475025000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1353716981959160000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1423349644835402000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1431170002200240000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1402590511236620000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1415421482532999000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354502282952532000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1349390604351009000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1402409327810564000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1334090035315044000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1339015556729594000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1355128014997230000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1402657934228742000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1308765233813418000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1386470864661537000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1408435979598320000,
+      "Target_Ticker": "PSFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1337055976533451000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1372589917067350000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1420063256920551000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1366759927428108000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1354608687206314000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1402094526362161000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1356673756102595000,
+      "Target_Ticker": "BBBY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1429909371580977000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1418072146614661000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354838016079102000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1367545964399972000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1383189672692756000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1341772519565631000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1369307037247570000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1334497293614060000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1355136520987017000,
+      "Target_Ticker": "BBBY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1389905990238327000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1432313264646599000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1366586257568981000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1428755529392955000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1354135041735971000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1403501302966018000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1367692313758204000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354105055113171000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1353088773366510000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1414601156588884000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354866057174016000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354843077962326000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1415085774844932000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1402148156112970000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1348720540698243000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1409562492272009000,
+      "Target_Ticker": "VIAC",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1404258315102794000,
+      "Target_Ticker": "SHOP",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1407427418823041000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1334524926166970000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1318561177673339000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1336415494639940000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1355192628988547000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1367876087745671000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354826965740626000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1341069301986443000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1362011558562460000,
+      "Target_Ticker": "SHOP",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1428297018364109000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1370189671888732000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1374547178253787000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354429519101186000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1326860976495481000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1425351711154131000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1420873082231837000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1351679890932855000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1419679354314011000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1376896301028217000,
+      "Target_Ticker": "VIAC",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1341743162239242000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1404287915740570000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1300792057825571000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1325916313529807000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1400900787262349000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1352784239276790000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354952366844477000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354791444221989000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1413048195370869000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1337126270124036000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1344277055882449000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1426281319143719000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1311679560296038000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354891339784200000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1300810404457783000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1334114059516514000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1414622703814726000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1363656972894003000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1336059010068472000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1360147987503190000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1432512190540513000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1390251427537179000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1354816187876536000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1359900127150899000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1334844051544289000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1359386922607669000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1355136760720724000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1362746862256722000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1362046670041739000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1359894467210338000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1357795231308128000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1356327097430651000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1359946008302555000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1426226531160916000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1359501618031563000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1418679368679834000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354820793234952000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1356009203849159000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1356600520383730000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354490309682450000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1422268422763663000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1356709254888120000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1409840971051946000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1350141806181315000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354793584583696000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1422280643749323000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1389361631323382000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354820304976056000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1432447134700294000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1398278736978616000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1352743338978537000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1333658166752539000,
+      "Target_Ticker": "SHOP",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1414634989837246000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1338587186724278000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1363243303513313000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354903007264190000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1324784890705973000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1347256355585974000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1394302892010521000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1384067629308989000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1342145486405427000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1309285916649894000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1359525964305302000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1410963109121085000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354976721154540000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1432806920650465000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1355458739617346000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1359211937851179000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1313547744359985000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1352350876820595000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1415732347945816000,
+      "Target_Ticker": "SOFI",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1410922181899477000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1394323192424976000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1424794983681470000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1362393897465508000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1417850628999631000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1400517625051025000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1422964841321484000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1354453393981362000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1342259806787281000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1333431225751572000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1357731566387143000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1339977201274466000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1348748541066310000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1355033478740509000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1410727730274963000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1359792096081809000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354523659998642000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1427871604265062000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1412419934647468000,
+      "Target_Ticker": "SHOP",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1323268442183651000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1428567474140697000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1343685660029366000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1409530917006291000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1350126462653796000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1325904599677612000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1410228200773362000,
+      "Target_Ticker": "BBBY",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354822595061850000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1325794843143102000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1411003128527401000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354884193994551000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1415861853842985000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1366496874870448000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1430883966580666000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1356206851277390000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1405869367036895000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1353674206807024000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1390343732038455000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1360250821317911000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1353702151298576000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1402020383021277000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1351836573210272000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1384473032031236000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1364793000350544000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1357028694779396000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1417483411057488000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1381584485377004000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1432441688677499000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1356942558757351000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1331595242261402000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1357478211844674000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1341043212027216000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1417143061663080000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354982740727198000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1338302191677952000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1355495917860753000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1392093304565555000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1327243743347532000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1432463899564012000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1365279113108455000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354637577874244000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1414658440979534000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1427305231973552000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1359533867510551000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1355339601183986000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1362462470607151000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1401969660099281000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1357331571695567000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1354661266598601000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1329765688353944000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1422612351669445000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1340079993678946000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1398337663380247000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1324027495373545000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1407298505140433000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1375075873083302000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1324670674066178000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1362069458211066000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1425788538612765000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1402594987607478000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1355130390596497000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1380185976341942000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1415055388076958000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1349509967267721000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1391771174565138000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1427792557270921000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1311683302051451000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1359555909551276000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1346928146931597000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1355056939026305000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1356086000544440000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1421185872481833000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1417188196442644000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1381389238671925000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1318274370377290000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1351578284593701000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1355070404822524000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1408467355940778000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1337219494599602000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1387047284169331000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1403340957098070000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1355169600560910000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1384996988949725000,
+      "Target_Ticker": "VIAC",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1358592377083068000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1357428191434973000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1355205170695721000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1426189032174805000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1368559201467896000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1327319207831335000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1347476618814648000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1382593952499532000,
+      "Target_Ticker": "SPCE",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1300757308889235000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1417848348514689000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354492377793237000,
+      "Target_Ticker": "BB",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1336709402552832000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1308782358041068000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1409793777489826000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1406994938655429000,
+      "Target_Ticker": "SHOP",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1354640056087007000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1427041623528022000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1356241059190243000,
+      "Target_Ticker": "BB",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1338913071667016000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1382012514234434000,
+      "Target_Ticker": "ZM",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1410307583529914000,
+      "Target_Ticker": "BABA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1356255839321993000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1318966059664241000,
+      "Target_Ticker": "SQ",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1427762467459924000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1355213947104862000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEGATIVE"
+    },
+    {
+      "Tweet_ID": 1353721193971511000,
+      "Target_Ticker": "PLTR",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1356795005625655000,
+      "Target_Ticker": "TLRY",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": 1336385969646350000,
+      "Target_Ticker": "PFE",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1356374286420894000,
+      "Target_Ticker": "NOK",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": 1430248396342940000,
+      "Target_Ticker": "CLOV",
+      "Sentiment": "NEUTRAL"
+    }
+  ]
