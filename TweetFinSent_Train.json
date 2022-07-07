@@ -1,5566 +1,5566 @@
 [
     {
-      "Tweet_ID": 1354892404093034000,
+      "Tweet_ID": "1354892404093034501",
       "Target_Ticker": "BBBY",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1410235145668399000,
+      "Tweet_ID": "1410235145668399105",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1410663438871839000,
+      "Tweet_ID": "1410663438871838723",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1378203492179841000,
+      "Tweet_ID": "1378203492179841025",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1402575633327165000,
+      "Tweet_ID": "1402575633327165449",
       "Target_Ticker": "CLOV",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1396968435381383000,
+      "Tweet_ID": "1396968435381383168",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1365035655152173000,
+      "Tweet_ID": "1365035655152173061",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1355266428299956000,
+      "Tweet_ID": "1355266428299956224",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1366646940218364000,
+      "Tweet_ID": "1366646940218363906",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1360147987503190000,
+      "Tweet_ID": "1360147987503190019",
       "Target_Ticker": "TLRY",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1354806381245682000,
+      "Tweet_ID": "1354806381245681671",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1423023208362484000,
+      "Tweet_ID": "1423023208362483714",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1325798697876263000,
+      "Tweet_ID": "1325798697876262915",
       "Target_Ticker": "PFE",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1394302892010521000,
+      "Tweet_ID": "1394302892010520576",
       "Target_Ticker": "CLOV",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1366987434928443000,
+      "Tweet_ID": "1366987434928443393",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1356534883896619000,
+      "Tweet_ID": "1356534883896619009",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1354767339347206000,
+      "Tweet_ID": "1354767339347206144",
       "Target_Ticker": "BB",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1362470770417500000,
+      "Tweet_ID": "1362470770417500163",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1396062779216380000,
+      "Tweet_ID": "1396062779216379904",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1354300992683090000,
+      "Tweet_ID": "1354300992683089922",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1422660522395279000,
+      "Tweet_ID": "1422660522395279361",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1356261110547165000,
+      "Tweet_ID": "1356261110547165193",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1354195454360224000,
+      "Tweet_ID": "1354195454360223744",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1386910730679558000,
+      "Tweet_ID": "1386910730679558144",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1364268072278716000,
-      "Target_Ticker": "AMC",
-      "Sentiment": "POSITIVE"
-    },
-    {
-      "Tweet_ID": 1390683915795436000,
-      "Target_Ticker": "TSLA",
-      "Sentiment": "NEUTRAL"
-    },
-    {
-      "Tweet_ID": 1370343149328069000,
+      "Tweet_ID": "1364268072278716416",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1411149343529243000,
-      "Target_Ticker": "AMC",
-      "Sentiment": "NEUTRAL"
-    },
-    {
-      "Tweet_ID": 1364728696494576000,
+      "Tweet_ID": "1390683915795435520",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1353674206807024000,
+      "Tweet_ID": "1370343149328068609",
+      "Target_Ticker": "AMC",
+      "Sentiment": "POSITIVE"
+    },
+    {
+      "Tweet_ID": "1411149343529242633",
+      "Target_Ticker": "AMC",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": "1364728696494575616",
+      "Target_Ticker": "TSLA",
+      "Sentiment": "NEUTRAL"
+    },
+    {
+      "Tweet_ID": "1353674206807023617",
       "Target_Ticker": "BB",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1369615529875546000,
+      "Tweet_ID": "1369615529875546119",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354818201759048000,
+      "Tweet_ID": "1354818201759047681",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1318195529080295000,
+      "Tweet_ID": "1318195529080295424",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1321448690968596000,
+      "Tweet_ID": "1321448690968596484",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1355393923192029000,
+      "Tweet_ID": "1355393923192029191",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1412857239837282000,
+      "Tweet_ID": "1412857239837282304",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1398162747095884000,
+      "Tweet_ID": "1398162747095883776",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354509632908251000,
+      "Tweet_ID": "1354509632908251141",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1386153262340923000,
+      "Tweet_ID": "1386153262340923398",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354594826252124000,
+      "Tweet_ID": "1354594826252124165",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1349478202901672000,
+      "Tweet_ID": "1349478202901671944",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1359248818806485000,
+      "Tweet_ID": "1359248818806484993",
       "Target_Ticker": "TLRY",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354476086806147000,
+      "Tweet_ID": "1354476086806147077",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1345464957471580000,
+      "Tweet_ID": "1345464957471580161",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1382517815073182000,
+      "Tweet_ID": "1382517815073181699",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1417004439357952000,
+      "Tweet_ID": "1417004439357952001",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1305816273008366000,
+      "Tweet_ID": "1305816273008365568",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1430221290141532000,
+      "Tweet_ID": "1430221290141532161",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1315678534736675000,
+      "Tweet_ID": "1315678534736674816",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1383155880464691000,
+      "Tweet_ID": "1383155880464691200",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1412968411626344000,
+      "Tweet_ID": "1412968411626344453",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1421138849456140000,
+      "Tweet_ID": "1421138849456140288",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1423027597437555000,
+      "Tweet_ID": "1423027597437554688",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354795973931885000,
+      "Tweet_ID": "1354795973931884547",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1356269220707889000,
+      "Tweet_ID": "1356269220707889156",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1392828788141085000,
+      "Tweet_ID": "1392828788141084674",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1356274130685989000,
+      "Tweet_ID": "1356274130685988866",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354835355736928000,
+      "Tweet_ID": "1354835355736928260",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354431938094883000,
+      "Tweet_ID": "1354431938094882819",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1369701841236337000,
+      "Tweet_ID": "1369701841236336644",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1400137889720279000,
+      "Tweet_ID": "1400137889720279048",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1356144625879110000,
+      "Tweet_ID": "1356144625879109633",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1406695625836700000,
+      "Tweet_ID": "1406695625836699650",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1326499528216879000,
+      "Tweet_ID": "1326499528216879110",
       "Target_Ticker": "ZM",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1374432308464292000,
+      "Tweet_ID": "1374432308464291847",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1375510859917656000,
+      "Tweet_ID": "1375510859917656064",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1342938933475336000,
+      "Tweet_ID": "1342938933475336192",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1425152972602757000,
+      "Tweet_ID": "1425152972602757120",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1336597543686377000,
+      "Tweet_ID": "1336597543686377474",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1364793000350544000,
+      "Tweet_ID": "1364793000350543874",
       "Target_Ticker": "SQ",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354019354556457000,
+      "Tweet_ID": "1354019354556456960",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1323201863257305000,
+      "Tweet_ID": "1323201863257305088",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1381607283977753000,
+      "Tweet_ID": "1381607283977752581",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1354880658384933000,
+      "Tweet_ID": "1354880658384932866",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1362046670041739000,
+      "Tweet_ID": "1362046670041739267",
       "Target_Ticker": "PLTR",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1367855963324244000,
+      "Tweet_ID": "1367855963324243980",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1380625245057380000,
+      "Tweet_ID": "1380625245057380353",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354543829790159000,
+      "Tweet_ID": "1354543829790158849",
       "Target_Ticker": "NOK",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1339004351990403000,
+      "Tweet_ID": "1339004351990403072",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1375512374464029000,
+      "Tweet_ID": "1375512374464028673",
       "Target_Ticker": "VIAC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1415358954071200000,
+      "Tweet_ID": "1415358954071199744",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1353569205619053000,
+      "Tweet_ID": "1353569205619052544",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1325904599677612000,
+      "Tweet_ID": "1325904599677612038",
       "Target_Ticker": "PFE",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354781871004144000,
+      "Tweet_ID": "1354781871004143623",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1355136638754689000,
+      "Tweet_ID": "1355136638754689024",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1357340478031598000,
+      "Tweet_ID": "1357340478031597573",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1373671866418803000,
+      "Tweet_ID": "1373671866418802697",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1417967688467554000,
+      "Tweet_ID": "1417967688467554306",
       "Target_Ticker": "SOFI",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1369008821205537000,
+      "Tweet_ID": "1369008821205536770",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1395872339766563000,
+      "Tweet_ID": "1395872339766562817",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1365798865744646000,
+      "Tweet_ID": "1365798865744646148",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354293008468906000,
+      "Tweet_ID": "1354293008468905985",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1357746200825455000,
+      "Tweet_ID": "1357746200825454599",
       "Target_Ticker": "NOK",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1430632330306150000,
+      "Tweet_ID": "1430632330306150402",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354035819426714000,
+      "Tweet_ID": "1354035819426713600",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1326965614284517000,
+      "Tweet_ID": "1326965614284517381",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1352672133374087000,
+      "Tweet_ID": "1352672133374087169",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1426208822490771000,
+      "Tweet_ID": "1426208822490771458",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1355760297106158000,
+      "Tweet_ID": "1355760297106157572",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1405165733697384000,
+      "Tweet_ID": "1405165733697384464",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1400208323123765000,
+      "Tweet_ID": "1400208323123765258",
       "Target_Ticker": "CLOV",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1404428406566146000,
+      "Tweet_ID": "1404428406566146050",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1422982290284573000,
+      "Tweet_ID": "1422982290284572672",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1400801987516506000,
+      "Tweet_ID": "1400801987516506118",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1361442072637620000,
+      "Tweet_ID": "1361442072637620224",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1425831868620952000,
+      "Tweet_ID": "1425831868620951554",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1341735779282936000,
+      "Tweet_ID": "1341735779282935813",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354810283760341000,
+      "Tweet_ID": "1354810283760340996",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1394849668094468000,
+      "Tweet_ID": "1394849668094468098",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1362415606088278000,
+      "Tweet_ID": "1362415606088278017",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1405308462603534000,
+      "Tweet_ID": "1405308462603534337",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1359508496170045000,
+      "Tweet_ID": "1359508496170045441",
       "Target_Ticker": "TLRY",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1406005471471981000,
+      "Tweet_ID": "1406005471471980545",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1315019371018813000,
+      "Tweet_ID": "1315019371018813441",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1390330908574585000,
+      "Tweet_ID": "1390330908574584832",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354803776561930000,
+      "Tweet_ID": "1354803776561930242",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1397172042391343000,
+      "Tweet_ID": "1397172042391343109",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1334628988610863000,
+      "Tweet_ID": "1334628988610863104",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1311664907465581000,
+      "Tweet_ID": "1311664907465580552",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1402342969060082000,
+      "Tweet_ID": "1402342969060081665",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1354456439746568000,
+      "Tweet_ID": "1354456439746568195",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1356977403285762000,
+      "Tweet_ID": "1356977403285762048",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1406092003050394000,
+      "Tweet_ID": "1406092003050393601",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1368316928444555000,
+      "Tweet_ID": "1368316928444555265",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1352632717536616000,
+      "Tweet_ID": "1352632717536616448",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1413532633569636000,
+      "Tweet_ID": "1413532633569636352",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1428752839329919000,
+      "Tweet_ID": "1428752839329918984",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1351667249011048000,
+      "Tweet_ID": "1351667249011048448",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1432362138945966000,
+      "Tweet_ID": "1432362138945966092",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354415513343046000,
+      "Tweet_ID": "1354415513343045632",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1390430937729622000,
+      "Tweet_ID": "1390430937729622016",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1374842386757616000,
+      "Tweet_ID": "1374842386757615617",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1426939016813982000,
+      "Tweet_ID": "1426939016813981700",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1427324126516163000,
+      "Tweet_ID": "1427324126516162560",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1397188180026212000,
+      "Tweet_ID": "1397188180026212354",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1355477081262600000,
+      "Tweet_ID": "1355477081262600194",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1419775424951853000,
+      "Tweet_ID": "1419775424951853057",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1362133988916089000,
+      "Tweet_ID": "1362133988916088834",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1415723356251320000,
+      "Tweet_ID": "1415723356251320323",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354186137649242000,
+      "Tweet_ID": "1354186137649242113",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1411030462714294000,
+      "Tweet_ID": "1411030462714294274",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1408526547024331000,
+      "Tweet_ID": "1408526547024330776",
       "Target_Ticker": "BABA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1415045438294614000,
+      "Tweet_ID": "1415045438294614018",
       "Target_Ticker": "CLOV",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1384475987514122000,
+      "Tweet_ID": "1384475987514122241",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1302034251156730000,
+      "Tweet_ID": "1302034251156729856",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354605797213426000,
+      "Tweet_ID": "1354605797213425672",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354864007719621000,
+      "Tweet_ID": "1354864007719620614",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354637455584944000,
+      "Tweet_ID": "1354637455584944128",
       "Target_Ticker": "NOK",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1430526051629810000,
+      "Tweet_ID": "1430526051629809664",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1345827012141871000,
+      "Tweet_ID": "1345827012141871107",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1415076038699258000,
+      "Tweet_ID": "1415076038699257859",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1404999233959252000,
+      "Tweet_ID": "1404999233959251969",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1358754543891321000,
+      "Tweet_ID": "1358754543891320833",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1401079124043583000,
+      "Tweet_ID": "1401079124043583488",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1355259920606704000,
+      "Tweet_ID": "1355259920606703617",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1427676398366384000,
+      "Tweet_ID": "1427676398366384137",
       "Target_Ticker": "BABA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1400629352295977000,
+      "Tweet_ID": "1400629352295976965",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1357493224697438000,
+      "Tweet_ID": "1357493224697438208",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1378548634204131000,
+      "Tweet_ID": "1378548634204131331",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1423707193489072000,
+      "Tweet_ID": "1423707193489072131",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1397915238075290000,
+      "Tweet_ID": "1397915238075289603",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354473584589218000,
+      "Tweet_ID": "1354473584589217795",
       "Target_Ticker": "CLOV",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1422563137715425000,
+      "Tweet_ID": "1422563137715425284",
       "Target_Ticker": "BABA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354834413981475000,
+      "Tweet_ID": "1354834413981474823",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1324463985194918000,
+      "Tweet_ID": "1324463985194917894",
       "Target_Ticker": "SQ",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354581429783421000,
+      "Tweet_ID": "1354581429783420929",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1356374286420894000,
+      "Tweet_ID": "1356374286420893697",
       "Target_Ticker": "NOK",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1395552287842574000,
+      "Tweet_ID": "1395552287842574337",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1366671804765503000,
+      "Tweet_ID": "1366671804765503490",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1356538133920309000,
+      "Tweet_ID": "1356538133920309250",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1384222480168985000,
+      "Tweet_ID": "1384222480168984584",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1381039056440631000,
+      "Tweet_ID": "1381039056440631297",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1401955123681804000,
+      "Tweet_ID": "1401955123681804291",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1362807820505252000,
+      "Tweet_ID": "1362807820505251846",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1382737336132370000,
+      "Tweet_ID": "1382737336132370434",
       "Target_Ticker": "PLTR",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1392960313344078000,
+      "Tweet_ID": "1392960313344077824",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1400152683466613000,
+      "Tweet_ID": "1400152683466612737",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1421800339876028000,
+      "Tweet_ID": "1421800339876028419",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1356026910346785000,
+      "Tweet_ID": "1356026910346784771",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354938799692927000,
+      "Tweet_ID": "1354938799692926980",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1410686464942174000,
+      "Tweet_ID": "1410686464942174208",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1336743216712983000,
+      "Tweet_ID": "1336743216712982531",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1355130390596497000,
+      "Tweet_ID": "1355130390596497413",
       "Target_Ticker": "CLOV",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1417825757166936000,
+      "Tweet_ID": "1417825757166936068",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1400444497083916000,
+      "Tweet_ID": "1400444497083916292",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1340817067864281000,
+      "Tweet_ID": "1340817067864281088",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1349390604351009000,
+      "Tweet_ID": "1349390604351008769",
       "Target_Ticker": "CLOV",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1402741923249537000,
+      "Tweet_ID": "1402741923249537025",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1308416301161996000,
+      "Tweet_ID": "1308416301161996296",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1332711542098424000,
+      "Tweet_ID": "1332711542098423813",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1356496717391274000,
+      "Tweet_ID": "1356496717391273984",
       "Target_Ticker": "CLOV",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1364739101031862000,
+      "Tweet_ID": "1364739101031862272",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1405237383734378000,
+      "Tweet_ID": "1405237383734378497",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1423019040780476000,
+      "Tweet_ID": "1423019040780476420",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1382088238215672000,
+      "Tweet_ID": "1382088238215671810",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354892950698938000,
+      "Tweet_ID": "1354892950698938370",
       "Target_Ticker": "NOK",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1309856064997736000,
+      "Tweet_ID": "1309856064997736451",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1432405918436651000,
+      "Tweet_ID": "1432405918436651010",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1385259012841693000,
+      "Tweet_ID": "1385259012841693189",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1308743706065814000,
+      "Tweet_ID": "1308743706065813505",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354794989482504000,
+      "Tweet_ID": "1354794989482504196",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1373158823301542000,
+      "Tweet_ID": "1373158823301541889",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1359317735797236000,
+      "Tweet_ID": "1359317735797235714",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1390328679054590000,
+      "Tweet_ID": "1390328679054589955",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1366435656113734000,
+      "Tweet_ID": "1366435656113733633",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1410385328192492000,
+      "Tweet_ID": "1410385328192491522",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1392155052828107000,
+      "Tweet_ID": "1392155052828106753",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1397281459178807000,
+      "Tweet_ID": "1397281459178807311",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354943655774192000,
+      "Tweet_ID": "1354943655774191617",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1328935721428718000,
+      "Tweet_ID": "1328935721428717571",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1376856237447463000,
+      "Tweet_ID": "1376856237447462916",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1408010766574313000,
+      "Tweet_ID": "1408010766574313472",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354843478468002000,
+      "Tweet_ID": "1354843478468001798",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354614966406545000,
+      "Tweet_ID": "1354614966406545413",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1357204460817285000,
+      "Tweet_ID": "1357204460817285121",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1411217530883084000,
+      "Tweet_ID": "1411217530883084290",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1346232672163570000,
+      "Tweet_ID": "1346232672163569665",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1383843424214819000,
+      "Tweet_ID": "1383843424214818823",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1431364155957727000,
+      "Tweet_ID": "1431364155957727235",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1403416633381638000,
+      "Tweet_ID": "1403416633381638150",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354412226560594000,
+      "Tweet_ID": "1354412226560593922",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1423503983356760000,
+      "Tweet_ID": "1423503983356760065",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1385248236823355000,
+      "Tweet_ID": "1385248236823355394",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1430248396342940000,
+      "Tweet_ID": "1430248396342939659",
       "Target_Ticker": "CLOV",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1392830739327054000,
+      "Tweet_ID": "1392830739327053826",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1355025703389991000,
+      "Tweet_ID": "1355025703389990912",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1350267208660787000,
+      "Tweet_ID": "1350267208660787200",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1409921296213946000,
+      "Tweet_ID": "1409921296213946372",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1371135659092500000,
+      "Tweet_ID": "1371135659092500481",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354198048067342000,
+      "Tweet_ID": "1354198048067342340",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1313156135348826000,
+      "Tweet_ID": "1313156135348826112",
       "Target_Ticker": "SQ",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1405736642623668000,
+      "Tweet_ID": "1405736642623668225",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1425788538612765000,
+      "Tweet_ID": "1425788538612764684",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1355376706471698000,
+      "Tweet_ID": "1355376706471698435",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1408091610236211000,
+      "Tweet_ID": "1408091610236211205",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1356560343561101000,
+      "Tweet_ID": "1356560343561101314",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1300791445272637000,
+      "Tweet_ID": "1300791445272637448",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1356860246229012000,
+      "Tweet_ID": "1356860246229012481",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1355130808193831000,
+      "Tweet_ID": "1355130808193830912",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1362411037476098000,
+      "Tweet_ID": "1362411037476098050",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1402886429139771000,
+      "Tweet_ID": "1402886429139771400",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354484776216842000,
+      "Tweet_ID": "1354484776216842241",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1331673355666162000,
+      "Tweet_ID": "1331673355666161664",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1394688117735662000,
+      "Tweet_ID": "1394688117735661568",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1377646295922393000,
+      "Tweet_ID": "1377646295922393089",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1352689651358831000,
+      "Tweet_ID": "1352689651358830597",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1432385316388844000,
+      "Tweet_ID": "1432385316388843520",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1397636562658251000,
+      "Tweet_ID": "1397636562658250768",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354858791892906000,
+      "Tweet_ID": "1354858791892905984",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1359896169980203000,
+      "Tweet_ID": "1359896169980203011",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1407096122007601000,
+      "Tweet_ID": "1407096122007601155",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1427481491219567000,
+      "Tweet_ID": "1427481491219566596",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1370465698959491000,
+      "Tweet_ID": "1370465698959491072",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1318659004458029000,
+      "Tweet_ID": "1318659004458029056",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1359115422910538000,
+      "Tweet_ID": "1359115422910537744",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1386732977799893000,
+      "Tweet_ID": "1386732977799892997",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1368965022399955000,
+      "Tweet_ID": "1368965022399954946",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1306210823111614000,
+      "Tweet_ID": "1306210823111614474",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1428320101212856000,
+      "Tweet_ID": "1428320101212856321",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1357014913080840000,
+      "Tweet_ID": "1357014913080840200",
       "Target_Ticker": "BB",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1355719835439821000,
+      "Tweet_ID": "1355719835439820804",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1400570223930057000,
+      "Tweet_ID": "1400570223930056709",
       "Target_Ticker": "TLRY",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1413130074530877000,
+      "Tweet_ID": "1413130074530877440",
       "Target_Ticker": "BABA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1397279496412217000,
+      "Tweet_ID": "1397279496412217355",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1423650909960163000,
+      "Tweet_ID": "1423650909960163334",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1364210615577895000,
+      "Tweet_ID": "1364210615577894914",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1412453571967164000,
+      "Tweet_ID": "1412453571967164421",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1347245474819035000,
+      "Tweet_ID": "1347245474819035141",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1383035450944848000,
+      "Tweet_ID": "1383035450944847874",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1408300050644562000,
+      "Tweet_ID": "1408300050644561920",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1353697230499230000,
+      "Tweet_ID": "1353697230499229698",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1384674275211235000,
+      "Tweet_ID": "1384674275211235331",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1359532921175081000,
+      "Tweet_ID": "1359532921175080964",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1405681480282542000,
+      "Tweet_ID": "1405681480282542081",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1432385128945312000,
+      "Tweet_ID": "1432385128945311747",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1410319485177827000,
+      "Tweet_ID": "1410319485177827334",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1400641909081752000,
+      "Tweet_ID": "1400641909081751554",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1375441177651114000,
+      "Tweet_ID": "1375441177651113990",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1370431323752428000,
+      "Tweet_ID": "1370431323752427520",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1394726387324498000,
+      "Tweet_ID": "1394726387324497921",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1337023357745820000,
+      "Tweet_ID": "1337023357745819648",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1404903744291017000,
+      "Tweet_ID": "1404903744291016706",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1420397177151623000,
+      "Tweet_ID": "1420397177151623170",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354856759081361000,
+      "Tweet_ID": "1354856759081361409",
       "Target_Ticker": "NOK",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1403111226490507000,
+      "Tweet_ID": "1403111226490507266",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1387048445752402000,
+      "Tweet_ID": "1387048445752401924",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1389669632647340000,
+      "Tweet_ID": "1389669632647340032",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1331750228026741000,
+      "Tweet_ID": "1331750228026740736",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1384414013120029000,
+      "Tweet_ID": "1384414013120028673",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1395912410209260000,
+      "Tweet_ID": "1395912410209259521",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1401957308595278000,
+      "Tweet_ID": "1401957308595277826",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1406256250686296000,
+      "Tweet_ID": "1406256250686296070",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1375083716662419000,
+      "Tweet_ID": "1375083716662419458",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1401698290974937000,
+      "Tweet_ID": "1401698290974937092",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1412602139348660000,
+      "Tweet_ID": "1412602139348660231",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1338027644688822000,
+      "Tweet_ID": "1338027644688822273",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354905331806073000,
+      "Tweet_ID": "1354905331806072834",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1414932625974776000,
+      "Tweet_ID": "1414932625974775833",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354431885770969000,
+      "Tweet_ID": "1354431885770969092",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1417609574098608000,
+      "Tweet_ID": "1417609574098608135",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1425930757902504000,
+      "Tweet_ID": "1425930757902503937",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1400126287138767000,
+      "Tweet_ID": "1400126287138766849",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1316374536431055000,
+      "Tweet_ID": "1316374536431054856",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1326613526702481000,
+      "Tweet_ID": "1326613526702481409",
       "Target_Ticker": "PFE",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1394675110020272000,
+      "Tweet_ID": "1394675110020272128",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1402466817998787000,
+      "Tweet_ID": "1402466817998786561",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1371471602437722000,
+      "Tweet_ID": "1371471602437722114",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354673804941918000,
+      "Tweet_ID": "1354673804941918210",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1306942897074434000,
+      "Tweet_ID": "1306942897074434048",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1336040418664837000,
+      "Tweet_ID": "1336040418664837122",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1333778018775536000,
+      "Tweet_ID": "1333778018775535616",
       "Target_Ticker": "BB",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1317850937872982000,
+      "Tweet_ID": "1317850937872982022",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1394282713398514000,
+      "Tweet_ID": "1394282713398513671",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1319318768456262000,
+      "Tweet_ID": "1319318768456261632",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1412101841597383000,
+      "Tweet_ID": "1412101841597382658",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354952366844477000,
+      "Tweet_ID": "1354952366844477445",
       "Target_Ticker": "NOK",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1367579956084146000,
+      "Tweet_ID": "1367579956084146183",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1353074341123002000,
+      "Tweet_ID": "1353074341123002369",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1352418644886577000,
+      "Tweet_ID": "1352418644886577153",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1344344166831174000,
+      "Tweet_ID": "1344344166831173638",
       "Target_Ticker": "BABA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1348953305985253000,
+      "Tweet_ID": "1348953305985253376",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1395105096749527000,
+      "Tweet_ID": "1395105096749527045",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1400138994864857000,
+      "Tweet_ID": "1400138994864857096",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1356243030395773000,
+      "Tweet_ID": "1356243030395772938",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1412934012595675000,
+      "Tweet_ID": "1412934012595675140",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1394676763029082000,
+      "Tweet_ID": "1394676763029082119",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1344454287842165000,
+      "Tweet_ID": "1344454287842164737",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1346866206452703000,
+      "Tweet_ID": "1346866206452703233",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1355241045072736000,
+      "Tweet_ID": "1355241045072736256",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354633581537198000,
+      "Tweet_ID": "1354633581537198081",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1357110372155630000,
+      "Tweet_ID": "1357110372155629568",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1430101561737286000,
+      "Tweet_ID": "1430101561737285635",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1402343141022351000,
+      "Tweet_ID": "1402343141022351363",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1399053937026601000,
+      "Tweet_ID": "1399053937026600960",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1397986533773357000,
+      "Tweet_ID": "1397986533773357059",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1397555089976357000,
+      "Tweet_ID": "1397555089976356873",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1409480720146473000,
+      "Tweet_ID": "1409480720146472964",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1399743924030280000,
+      "Tweet_ID": "1399743924030279680",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354541101844210000,
+      "Tweet_ID": "1354541101844209669",
       "Target_Ticker": "BB",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1388236223555285000,
+      "Tweet_ID": "1388236223555284995",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1345140951937741000,
+      "Tweet_ID": "1345140951937740801",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1392275939820818000,
+      "Tweet_ID": "1392275939820818432",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1402324975529439000,
+      "Tweet_ID": "1402324975529439241",
       "Target_Ticker": "BB",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1402346928562639000,
+      "Tweet_ID": "1402346928562638849",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1400073442725073000,
+      "Tweet_ID": "1400073442725072899",
       "Target_Ticker": "ZM",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354539370913608000,
+      "Tweet_ID": "1354539370913607681",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1357078600110006000,
+      "Tweet_ID": "1357078600110006273",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1351538693769556000,
+      "Tweet_ID": "1351538693769555968",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1371853207102755000,
+      "Tweet_ID": "1371853207102754821",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1356274601228202000,
+      "Tweet_ID": "1356274601228201985",
       "Target_Ticker": "NOK",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1430993045290459000,
+      "Tweet_ID": "1430993045290459137",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1400059331995832000,
+      "Tweet_ID": "1400059331995832320",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1404576951667462000,
+      "Tweet_ID": "1404576951667462146",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1356611956195607000,
+      "Tweet_ID": "1356611956195606528",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354452312983409000,
+      "Tweet_ID": "1354452312983408644",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1395325338020897000,
+      "Tweet_ID": "1395325338020896768",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1329120462471881000,
+      "Tweet_ID": "1329120462471880705",
       "Target_Ticker": "PFE",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1421532610942149000,
+      "Tweet_ID": "1421532610942148613",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354481446673498000,
+      "Tweet_ID": "1354481446673498116",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1408011036855316000,
+      "Tweet_ID": "1408011036855316480",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1391967513236345000,
+      "Tweet_ID": "1391967513236344832",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1387177278849708000,
+      "Tweet_ID": "1387177278849708033",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1420762466598887000,
+      "Tweet_ID": "1420762466598887432",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1410002293076922000,
+      "Tweet_ID": "1410002293076922371",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1331299747932508000,
+      "Tweet_ID": "1331299747932508161",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1417835337381032000,
+      "Tweet_ID": "1417835337381031936",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1371578709216522000,
+      "Tweet_ID": "1371578709216522243",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1388658517268070000,
+      "Tweet_ID": "1388658517268070403",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1393946919580353000,
+      "Tweet_ID": "1393946919580352517",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1427402319428129000,
+      "Tweet_ID": "1427402319428128815",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1350132047185142000,
+      "Tweet_ID": "1350132047185141760",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1369307519890452000,
+      "Tweet_ID": "1369307519890452483",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1370142581728846000,
+      "Tweet_ID": "1370142581728845826",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1317217517190959000,
+      "Tweet_ID": "1317217517190959109",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1352671775134523000,
+      "Tweet_ID": "1352671775134523393",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1402331335738417000,
+      "Tweet_ID": "1402331335738417165",
       "Target_Ticker": "CLOV",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1355623574850179000,
+      "Tweet_ID": "1355623574850179073",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1312099198167261000,
+      "Tweet_ID": "1312099198167261184",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354782385984909000,
+      "Tweet_ID": "1354782385984909313",
       "Target_Ticker": "NOK",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1301003458770682000,
+      "Tweet_ID": "1301003458770681857",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1400148407726096000,
+      "Tweet_ID": "1400148407726096384",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1394307246977286000,
+      "Tweet_ID": "1394307246977286148",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354793027466883000,
+      "Tweet_ID": "1354793027466883075",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1400797892885967000,
+      "Tweet_ID": "1400797892885966850",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1397907001175425000,
+      "Tweet_ID": "1397907001175425025",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1328543608585155000,
+      "Tweet_ID": "1328543608585154564",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1354851686272086000,
+      "Tweet_ID": "1354851686272086016",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354826611946779000,
+      "Tweet_ID": "1354826611946778625",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1355562326976573000,
+      "Tweet_ID": "1355562326976573443",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1413480846430937000,
+      "Tweet_ID": "1413480846430937110",
       "Target_Ticker": "CLOV",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1407135005973823000,
+      "Tweet_ID": "1407135005973823488",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1404103526641549000,
+      "Tweet_ID": "1404103526641549313",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1349399981246083000,
+      "Tweet_ID": "1349399981246083074",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1404621310622269000,
+      "Tweet_ID": "1404621310622269448",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1414937665003262000,
+      "Tweet_ID": "1414937665003261953",
       "Target_Ticker": "BABA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1398922383394755000,
+      "Tweet_ID": "1398922383394754561",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1398006422609314000,
+      "Tweet_ID": "1398006422609313792",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1325785516147696000,
+      "Tweet_ID": "1325785516147695616",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1400148550697337000,
+      "Tweet_ID": "1400148550697336832",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1415055388076958000,
+      "Tweet_ID": "1415055388076957696",
       "Target_Ticker": "NOK",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1392060987696632000,
+      "Tweet_ID": "1392060987696631813",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1407888742627566000,
+      "Tweet_ID": "1407888742627565574",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1300757308889235000,
+      "Tweet_ID": "1300757308889235456",
       "Target_Ticker": "ZM",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1357703622159708000,
+      "Tweet_ID": "1357703622159708161",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1303422256576705000,
+      "Tweet_ID": "1303422256576704513",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1422608322935542000,
+      "Tweet_ID": "1422608322935541761",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1355184909057364000,
+      "Tweet_ID": "1355184909057363973",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1344686842537505000,
+      "Tweet_ID": "1344686842537504769",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1427647809084350000,
+      "Tweet_ID": "1427647809084350472",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1308082841687921000,
+      "Tweet_ID": "1308082841687920642",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1356756026620404000,
+      "Tweet_ID": "1356756026620403715",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1370498962440983000,
+      "Tweet_ID": "1370498962440982531",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354547667611886000,
+      "Tweet_ID": "1354547667611885569",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1354942953798722000,
+      "Tweet_ID": "1354942953798721543",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1397550611667821000,
+      "Tweet_ID": "1397550611667820547",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1418340329405784000,
+      "Tweet_ID": "1418340329405784067",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1398036211470635000,
+      "Tweet_ID": "1398036211470635018",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354783759950893000,
+      "Tweet_ID": "1354783759950893056",
       "Target_Ticker": "BB",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1355991208649228000,
+      "Tweet_ID": "1355991208649228289",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1303760378313277000,
+      "Tweet_ID": "1303760378313277448",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1373302474711257000,
+      "Tweet_ID": "1373302474711257093",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1368333818214646000,
+      "Tweet_ID": "1368333818214645761",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1374067706505396000,
+      "Tweet_ID": "1374067706505396239",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1371551144523235000,
+      "Tweet_ID": "1371551144523235328",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1410466937520357000,
+      "Tweet_ID": "1410466937520357377",
       "Target_Ticker": "PLTR",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1328526155524108000,
+      "Tweet_ID": "1328526155524108293",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1408371148430135000,
+      "Tweet_ID": "1408371148430135304",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1375934479617946000,
+      "Tweet_ID": "1375934479617945606",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1357731566387143000,
+      "Tweet_ID": "1357731566387142659",
       "Target_Ticker": "ZM",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354591266063827000,
+      "Tweet_ID": "1354591266063826944",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1429983610086564000,
+      "Tweet_ID": "1429983610086563848",
       "Target_Ticker": "PFE",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1415252786019713000,
+      "Tweet_ID": "1415252786019713026",
       "Target_Ticker": "SPCE",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354976012753273000,
+      "Tweet_ID": "1354976012753272835",
       "Target_Ticker": "NOK",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1366216926121366000,
+      "Tweet_ID": "1366216926121365512",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1375546409710150000,
+      "Tweet_ID": "1375546409710149639",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1382261030370251000,
+      "Tweet_ID": "1382261030370250752",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1369340723359867000,
+      "Tweet_ID": "1369340723359866885",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1405008799753196000,
+      "Tweet_ID": "1405008799753195523",
       "Target_Ticker": "CLOV",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1399876616302567000,
+      "Tweet_ID": "1399876616302567429",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1356283402031407000,
+      "Tweet_ID": "1356283402031407107",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1410673748525523000,
+      "Tweet_ID": "1410673748525522948",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1395361680994050000,
+      "Tweet_ID": "1395361680994050051",
       "Target_Ticker": "SPCE",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1342352103218430000,
+      "Tweet_ID": "1342352103218429952",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1424534062887318000,
+      "Tweet_ID": "1424534062887317504",
       "Target_Ticker": "CLOV",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1362454095781532000,
+      "Tweet_ID": "1362454095781531657",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1364948626636694000,
+      "Tweet_ID": "1364948626636693511",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1400577361842672000,
+      "Tweet_ID": "1400577361842671618",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1416020568395092000,
+      "Tweet_ID": "1416020568395091968",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1366564161426178000,
+      "Tweet_ID": "1366564161426178050",
       "Target_Ticker": "CLOV",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1318397465306010000,
+      "Tweet_ID": "1318397465306009602",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1415308084789002000,
+      "Tweet_ID": "1415308084789002250",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1398337663380247000,
+      "Tweet_ID": "1398337663380246528",
       "Target_Ticker": "BB",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1399805691586617000,
+      "Tweet_ID": "1399805691586617346",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1357342324385227000,
+      "Tweet_ID": "1357342324385226760",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1301152363168883000,
+      "Tweet_ID": "1301152363168882691",
       "Target_Ticker": "ZM",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1355280551641539000,
+      "Tweet_ID": "1355280551641538560",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354546573724709000,
+      "Tweet_ID": "1354546573724708867",
       "Target_Ticker": "NOK",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1369404270731272000,
+      "Tweet_ID": "1369404270731272199",
       "Target_Ticker": "PLTR",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354472885075767000,
+      "Tweet_ID": "1354472885075767299",
       "Target_Ticker": "NOK",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1366513022563459000,
+      "Tweet_ID": "1366513022563459080",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1377388288793702000,
+      "Tweet_ID": "1377388288793702400",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1355906686288990000,
+      "Tweet_ID": "1355906686288990215",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1355200321736364000,
+      "Tweet_ID": "1355200321736364033",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1408058808006480000,
+      "Tweet_ID": "1408058808006479872",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1422768985813230000,
+      "Tweet_ID": "1422768985813229569",
       "Target_Ticker": "PFE",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1418197351349596000,
+      "Tweet_ID": "1418197351349596166",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1380911682713686000,
+      "Tweet_ID": "1380911682713686018",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1368968441789579000,
+      "Tweet_ID": "1368968441789579268",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1365817688245690000,
+      "Tweet_ID": "1365817688245690371",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1328469528439886000,
+      "Tweet_ID": "1328469528439885827",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1357320858340102000,
+      "Tweet_ID": "1357320858340102145",
       "Target_Ticker": "CLOV",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1316159898372248000,
+      "Tweet_ID": "1316159898372247552",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354806099304620000,
+      "Tweet_ID": "1354806099304620039",
       "Target_Ticker": "NOK",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1412634140860510000,
+      "Tweet_ID": "1412634140860510215",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1357510471448986000,
+      "Tweet_ID": "1357510471448985601",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1355122495687373000,
+      "Tweet_ID": "1355122495687372803",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1394313279539929000,
+      "Tweet_ID": "1394313279539929091",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1393375513339732000,
+      "Tweet_ID": "1393375513339731970",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1367856670412468000,
+      "Tweet_ID": "1367856670412468229",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1432801421007729000,
+      "Tweet_ID": "1432801421007728643",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354675236877210000,
+      "Tweet_ID": "1354675236877209602",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1349102743345132000,
+      "Tweet_ID": "1349102743345131526",
       "Target_Ticker": "CLOV",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1375483664029655000,
+      "Tweet_ID": "1375483664029655043",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1388550561247674000,
+      "Tweet_ID": "1388550561247674369",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1365404894446895000,
+      "Tweet_ID": "1365404894446895105",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1424824590174327000,
+      "Tweet_ID": "1424824590174326813",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354179569922748000,
+      "Tweet_ID": "1354179569922748416",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1324329652861739000,
+      "Tweet_ID": "1324329652861739008",
       "Target_Ticker": "BABA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1365046749816099000,
+      "Tweet_ID": "1365046749816098818",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1390343732038455000,
+      "Tweet_ID": "1390343732038455299",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1359525964305302000,
+      "Tweet_ID": "1359525964305301504",
       "Target_Ticker": "CLOV",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1355280189723267000,
+      "Tweet_ID": "1355280189723267078",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1361085545351320000,
+      "Tweet_ID": "1361085545351319553",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1367545964399972000,
+      "Tweet_ID": "1367545964399972360",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1312145696556904000,
+      "Tweet_ID": "1312145696556904448",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354412509323817000,
+      "Tweet_ID": "1354412509323816962",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354509118804013000,
+      "Tweet_ID": "1354509118804013070",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1396642036996973000,
+      "Tweet_ID": "1396642036996972544",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1381620383024038000,
+      "Tweet_ID": "1381620383024037899",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1347960043455463000,
+      "Tweet_ID": "1347960043455463425",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1359964541648589000,
+      "Tweet_ID": "1359964541648588801",
       "Target_Ticker": "TLRY",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1404604807197856000,
+      "Tweet_ID": "1404604807197855746",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1350070963300409000,
+      "Tweet_ID": "1350070963300409344",
       "Target_Ticker": "CLOV",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1377249186106679000,
+      "Tweet_ID": "1377249186106679296",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1408047928065724000,
+      "Tweet_ID": "1408047928065724416",
       "Target_Ticker": "CLOV",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1415281849601982000,
+      "Tweet_ID": "1415281849601982470",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1361677647709942000,
+      "Tweet_ID": "1361677647709941760",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1364035509090198000,
+      "Tweet_ID": "1364035509090197506",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1328448311091552000,
+      "Tweet_ID": "1328448311091552256",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1341047015124447000,
+      "Tweet_ID": "1341047015124447233",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1356338485096051000,
+      "Tweet_ID": "1356338485096050691",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1363861223742337000,
+      "Tweet_ID": "1363861223742337025",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1407477158407066000,
+      "Tweet_ID": "1407477158407065600",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1347543964602294000,
+      "Tweet_ID": "1347543964602294273",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1353697983670444000,
+      "Tweet_ID": "1353697983670444032",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1364752059778683000,
+      "Tweet_ID": "1364752059778682882",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1400029357209489000,
+      "Tweet_ID": "1400029357209489410",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1394808239439626000,
+      "Tweet_ID": "1394808239439626241",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1400514076149797000,
+      "Tweet_ID": "1400514076149796866",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1308446918503092000,
+      "Tweet_ID": "1308446918503092224",
       "Target_Ticker": "ZM",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1430194483665252000,
+      "Tweet_ID": "1430194483665252361",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1428770853920068000,
+      "Tweet_ID": "1428770853920067585",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1394270163764195000,
+      "Tweet_ID": "1394270163764195333",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1316771673299845000,
+      "Tweet_ID": "1316771673299845120",
       "Target_Ticker": "ZM",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1400836388463993000,
+      "Tweet_ID": "1400836388463992841",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354450457104675000,
+      "Tweet_ID": "1354450457104674824",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1336324199825121000,
+      "Tweet_ID": "1336324199825121286",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1396902562670936000,
+      "Tweet_ID": "1396902562670936066",
       "Target_Ticker": "PLTR",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1384322200031822000,
+      "Tweet_ID": "1384322200031821824",
       "Target_Ticker": "CLOV",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1402724019795681000,
+      "Tweet_ID": "1402724019795681280",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1402576469566661000,
+      "Tweet_ID": "1402576469566660612",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1348445579781800000,
+      "Tweet_ID": "1348445579781799942",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1430171588922651000,
+      "Tweet_ID": "1430171588922650630",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1340517741485277000,
+      "Tweet_ID": "1340517741485277190",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1357824279799353000,
+      "Tweet_ID": "1357824279799353344",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354468995806728000,
+      "Tweet_ID": "1354468995806728194",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1311381297105834000,
+      "Tweet_ID": "1311381297105833984",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1308856335052747000,
+      "Tweet_ID": "1308856335052746761",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1353816103747789000,
+      "Tweet_ID": "1353816103747788802",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1370907899384508000,
+      "Tweet_ID": "1370907899384508416",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354363802901426000,
+      "Tweet_ID": "1354363802901426179",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354816101603971000,
+      "Tweet_ID": "1354816101603971074",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1366501119908663000,
+      "Tweet_ID": "1366501119908663297",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1432343883107668000,
+      "Tweet_ID": "1432343883107667972",
       "Target_Ticker": "BABA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1390005855345684000,
+      "Tweet_ID": "1390005855345684484",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1378400556973224000,
+      "Tweet_ID": "1378400556973223939",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1355151243014902000,
+      "Tweet_ID": "1355151243014901760",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1416058343521673000,
+      "Tweet_ID": "1416058343521673218",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1301441128118452000,
+      "Tweet_ID": "1301441128118452225",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1398108338261529000,
+      "Tweet_ID": "1398108338261528584",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1402802085733847000,
+      "Tweet_ID": "1402802085733847040",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1399700529048080000,
+      "Tweet_ID": "1399700529048080387",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1335181422529819000,
+      "Tweet_ID": "1335181422529818624",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1427259876531597000,
+      "Tweet_ID": "1427259876531597319",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1428471030050329000,
+      "Tweet_ID": "1428471030050328583",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1303791185547338000,
+      "Tweet_ID": "1303791185547337728",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1326536158222803000,
+      "Tweet_ID": "1326536158222802945",
       "Target_Ticker": "BABA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1400429137437807000,
+      "Tweet_ID": "1400429137437806592",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354458077907493000,
+      "Tweet_ID": "1354458077907492867",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1370118818207568000,
+      "Tweet_ID": "1370118818207567879",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1422223888990286000,
+      "Tweet_ID": "1422223888990285824",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1336468943792312000,
+      "Tweet_ID": "1336468943792312320",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1355258301391532000,
+      "Tweet_ID": "1355258301391532041",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1428744658180526000,
+      "Tweet_ID": "1428744658180526089",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1414619554832060000,
+      "Tweet_ID": "1414619554832060418",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1359489973729255000,
+      "Tweet_ID": "1359489973729255424",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1363857441277047000,
+      "Tweet_ID": "1363857441277046789",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1356301675104006000,
+      "Tweet_ID": "1356301675104006149",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354509183291331000,
+      "Tweet_ID": "1354509183291330561",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1376515209158869000,
+      "Tweet_ID": "1376515209158868998",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1377668465218175000,
+      "Tweet_ID": "1377668465218174977",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1310438435232969000,
+      "Tweet_ID": "1310438435232968704",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1425536885955387000,
+      "Tweet_ID": "1425536885955387405",
       "Target_Ticker": "CLOV",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1407155827669193000,
+      "Tweet_ID": "1407155827669192705",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1403778194642145000,
+      "Tweet_ID": "1403778194642145280",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354419065830466000,
+      "Tweet_ID": "1354419065830465537",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1421130058232648000,
+      "Tweet_ID": "1421130058232647680",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1414191141508067000,
+      "Tweet_ID": "1414191141508067329",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1333518510228640000,
+      "Tweet_ID": "1333518510228639749",
       "Target_Ticker": "ZM",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1428297018364109000,
+      "Tweet_ID": "1428297018364108801",
       "Target_Ticker": "BABA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1362154502657294000,
+      "Tweet_ID": "1362154502657294336",
       "Target_Ticker": "TLRY",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1408910627125486000,
+      "Tweet_ID": "1408910627125485568",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354793584583696000,
+      "Tweet_ID": "1354793584583696392",
       "Target_Ticker": "BB",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1360480902434992000,
+      "Tweet_ID": "1360480902434992130",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1375188667183038000,
+      "Tweet_ID": "1375188667183038469",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1425548213675770000,
+      "Tweet_ID": "1425548213675769865",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1383068794239775000,
+      "Tweet_ID": "1383068794239774722",
       "Target_Ticker": "CLOV",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1400124991283339000,
+      "Tweet_ID": "1400124991283339266",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1415152063902798000,
+      "Tweet_ID": "1415152063902797824",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1415303081932190000,
+      "Tweet_ID": "1415303081932189702",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354471056061428000,
+      "Tweet_ID": "1354471056061427717",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1383130960703726000,
+      "Tweet_ID": "1383130960703725569",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1402340185199763000,
+      "Tweet_ID": "1402340185199763462",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1369340848958300000,
+      "Tweet_ID": "1369340848958300162",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1349515738978132000,
+      "Tweet_ID": "1349515738978131969",
       "Target_Ticker": "TLRY",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1365351142121759000,
+      "Tweet_ID": "1365351142121758729",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1418362145331237000,
+      "Tweet_ID": "1418362145331236868",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1403014856517771000,
+      "Tweet_ID": "1403014856517771267",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1400505811781100000,
+      "Tweet_ID": "1400505811781099523",
       "Target_Ticker": "BB",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1398002685320827000,
+      "Tweet_ID": "1398002685320826891",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354490905747628000,
+      "Tweet_ID": "1354490905747628034",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1430829857072615000,
+      "Tweet_ID": "1430829857072615424",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1428040277684539000,
+      "Tweet_ID": "1428040277684539393",
       "Target_Ticker": "PFE",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1356635442964128000,
+      "Tweet_ID": "1356635442964127748",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1355056939026305000,
+      "Tweet_ID": "1355056939026305024",
       "Target_Ticker": "NOK",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1350126462653796000,
+      "Tweet_ID": "1350126462653796352",
       "Target_Ticker": "TLRY",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1364703138427466000,
+      "Tweet_ID": "1364703138427465728",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1402392496487895000,
+      "Tweet_ID": "1402392496487895044",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1354568980707602000,
+      "Tweet_ID": "1354568980707602432",
       "Target_Ticker": "SPCE",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1430168484412002000,
+      "Tweet_ID": "1430168484412002307",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1395425955645067000,
+      "Tweet_ID": "1395425955645067264",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1369353168191173000,
+      "Tweet_ID": "1369353168191172610",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1356332407167857000,
+      "Tweet_ID": "1356332407167856649",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1326902588122542000,
+      "Tweet_ID": "1326902588122542092",
       "Target_Ticker": "ZM",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354480660715631000,
+      "Tweet_ID": "1354480660715630592",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1369269760559636000,
+      "Tweet_ID": "1369269760559636491",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1358805818880254000,
+      "Tweet_ID": "1358805818880253954",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1432437815296635000,
+      "Tweet_ID": "1432437815296634887",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1410989970324664000,
+      "Tweet_ID": "1410989970324664324",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1400404317006287000,
+      "Tweet_ID": "1400404317006286848",
       "Target_Ticker": "BBBY",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1342172242143228000,
+      "Tweet_ID": "1342172242143227904",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1362589281840026000,
+      "Tweet_ID": "1362589281840025600",
       "Target_Ticker": "CLOV",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1350076493427306000,
+      "Tweet_ID": "1350076493427306496",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1392748371451027000,
+      "Tweet_ID": "1392748371451027462",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1382681846203310000,
+      "Tweet_ID": "1382681846203310086",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1385258906293785000,
+      "Tweet_ID": "1385258906293784577",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1353888645707608000,
+      "Tweet_ID": "1353888645707608064",
       "Target_Ticker": "BB",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1392210510209245000,
+      "Tweet_ID": "1392210510209245190",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1357331534412472000,
+      "Tweet_ID": "1357331534412472320",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1402215872140243000,
+      "Tweet_ID": "1402215872140242948",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354453393981362000,
+      "Tweet_ID": "1354453393981362177",
       "Target_Ticker": "BB",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1356238127392838000,
+      "Tweet_ID": "1356238127392837636",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1425530787689079000,
+      "Tweet_ID": "1425530787689078784",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1403001275822744000,
+      "Tweet_ID": "1403001275822743559",
       "Target_Ticker": "BB",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1356326625240113000,
+      "Tweet_ID": "1356326625240113158",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1420407631450157000,
+      "Tweet_ID": "1420407631450157065",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354842515250274000,
+      "Tweet_ID": "1354842515250274304",
       "Target_Ticker": "NOK",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1428709493366399000,
+      "Tweet_ID": "1428709493366398979",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1394304085399163000,
+      "Tweet_ID": "1394304085399162885",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1400185250613969000,
+      "Tweet_ID": "1400185250613968898",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1355249155086705000,
+      "Tweet_ID": "1355249155086704640",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1369033110579515000,
+      "Tweet_ID": "1369033110579515397",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1395081758970946000,
+      "Tweet_ID": "1395081758970945544",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1398433656608264000,
+      "Tweet_ID": "1398433656608264192",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1426190189660033000,
+      "Tweet_ID": "1426190189660033027",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1335954060365599000,
+      "Tweet_ID": "1335954060365598720",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354870663060677000,
+      "Tweet_ID": "1354870663060676616",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1402257575094149000,
+      "Tweet_ID": "1402257575094149121",
       "Target_Ticker": "CLOV",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1412451672253768000,
+      "Tweet_ID": "1412451672253767688",
       "Target_Ticker": "CLOV",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1349075469388411000,
+      "Tweet_ID": "1349075469388410880",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1356404574681240000,
+      "Tweet_ID": "1356404574681239553",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1374466780903608000,
+      "Tweet_ID": "1374466780903608325",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1385967738338873000,
+      "Tweet_ID": "1385967738338873352",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1362011558562460000,
+      "Tweet_ID": "1362011558562459651",
       "Target_Ticker": "SHOP",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1407673919016944000,
+      "Tweet_ID": "1407673919016943619",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1402523348001829000,
+      "Tweet_ID": "1402523348001828866",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1312809199194210000,
+      "Tweet_ID": "1312809199194210307",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1362816852385288000,
+      "Tweet_ID": "1362816852385288193",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1354636862598509000,
+      "Tweet_ID": "1354636862598508552",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1404764119685911000,
+      "Tweet_ID": "1404764119685910530",
       "Target_Ticker": "PLTR",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1409636991642210000,
+      "Tweet_ID": "1409636991642210305",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1397984810409333000,
+      "Tweet_ID": "1397984810409332742",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1405030093748068000,
+      "Tweet_ID": "1405030093748068352",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1403328586103157000,
+      "Tweet_ID": "1403328586103156740",
       "Target_Ticker": "BB",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1364676584674914000,
+      "Tweet_ID": "1364676584674914305",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1424835284601033000,
+      "Tweet_ID": "1424835284601032716",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1386810569450271000,
+      "Tweet_ID": "1386810569450270720",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1351799350645699000,
+      "Tweet_ID": "1351799350645698560",
       "Target_Ticker": "BABA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1355140925647942000,
+      "Tweet_ID": "1355140925647941633",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1336372073472664000,
+      "Tweet_ID": "1336372073472663556",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1383432793623994000,
+      "Tweet_ID": "1383432793623994383",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1361713973612204000,
+      "Tweet_ID": "1361713973612204034",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1382564755458642000,
+      "Tweet_ID": "1382564755458641920",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1402684968652972000,
+      "Tweet_ID": "1402684968652972034",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354687314690236000,
+      "Tweet_ID": "1354687314690236416",
       "Target_Ticker": "NOK",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1420783682969874000,
+      "Tweet_ID": "1420783682969874437",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1430907906216448000,
+      "Tweet_ID": "1430907906216448000",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1421174853672002000,
+      "Tweet_ID": "1421174853672001545",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1430735895288820000,
+      "Tweet_ID": "1430735895288819716",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1375962217468858000,
+      "Tweet_ID": "1375962217468858369",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1356725261140713000,
+      "Tweet_ID": "1356725261140713473",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1430183100194173000,
+      "Tweet_ID": "1430183100194172939",
       "Target_Ticker": "BABA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1355923919065264000,
+      "Tweet_ID": "1355923919065264128",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1383036153687867000,
+      "Tweet_ID": "1383036153687867395",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1400473765042180000,
+      "Tweet_ID": "1400473765042180098",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354236889541341000,
+      "Tweet_ID": "1354236889541341188",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1334212377546551000,
+      "Tweet_ID": "1334212377546551299",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1352743338978537000,
+      "Tweet_ID": "1352743338978537472",
       "Target_Ticker": "BB",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1396966588503532000,
+      "Tweet_ID": "1396966588503531520",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354967154093908000,
+      "Tweet_ID": "1354967154093907969",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1377027483845845000,
+      "Tweet_ID": "1377027483845844994",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1347552701970850000,
+      "Tweet_ID": "1347552701970849793",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1409326956483690000,
+      "Tweet_ID": "1409326956483690498",
       "Target_Ticker": "CLOV",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1369710563111092000,
+      "Tweet_ID": "1369710563111092237",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1303341515331207000,
+      "Tweet_ID": "1303341515331207170",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1430517868601483000,
+      "Tweet_ID": "1430517868601483268",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1305046889847493000,
+      "Tweet_ID": "1305046889847492608",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1355530133294232000,
+      "Tweet_ID": "1355530133294231559",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1400479084111598000,
+      "Tweet_ID": "1400479084111597575",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1379087222859653000,
+      "Tweet_ID": "1379087222859653133",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1394520623444070000,
+      "Tweet_ID": "1394520623444070400",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1343328060897038000,
+      "Tweet_ID": "1343328060897038337",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354463827195093000,
+      "Tweet_ID": "1354463827195092999",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1427992058795491000,
+      "Tweet_ID": "1427992058795491342",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1399844377493709000,
+      "Tweet_ID": "1399844377493708801",
       "Target_Ticker": "BB",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1365004669353816000,
+      "Tweet_ID": "1365004669353816066",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1403382035742351000,
+      "Tweet_ID": "1403382035742351365",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1405608155808162000,
+      "Tweet_ID": "1405608155808161796",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1392866562550424000,
+      "Tweet_ID": "1392866562550423555",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1359608079432753000,
+      "Tweet_ID": "1359608079432753154",
       "Target_Ticker": "TLRY",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1300860358337458000,
+      "Tweet_ID": "1300860358337458182",
       "Target_Ticker": "ZM",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354651589869507000,
+      "Tweet_ID": "1354651589869506565",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1363883177815736000,
+      "Tweet_ID": "1363883177815736320",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1356701938851676000,
+      "Tweet_ID": "1356701938851676162",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1367238241351586000,
+      "Tweet_ID": "1367238241351585798",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1407343668328010000,
+      "Tweet_ID": "1407343668328009732",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1379161523759763000,
+      "Tweet_ID": "1379161523759763459",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1394360648226820000,
+      "Tweet_ID": "1394360648226820100",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1386514567006667000,
+      "Tweet_ID": "1386514567006666754",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1333656363147416000,
+      "Tweet_ID": "1333656363147415554",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1415309340144177000,
+      "Tweet_ID": "1415309340144177152",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1364753340421276000,
+      "Tweet_ID": "1364753340421275648",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1350131456496943000,
+      "Tweet_ID": "1350131456496943105",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1353515751399772000,
+      "Tweet_ID": "1353515751399772160",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1356270343061701000,
+      "Tweet_ID": "1356270343061700608",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1415800574738670000,
+      "Tweet_ID": "1415800574738669568",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1389382622728520000,
+      "Tweet_ID": "1389382622728519683",
       "Target_Ticker": "PFE",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354899899750511000,
+      "Tweet_ID": "1354899899750510592",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1419260402982998000,
+      "Tweet_ID": "1419260402982998029",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1373860525394772000,
+      "Tweet_ID": "1373860525394771970",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1410441033930920000,
+      "Tweet_ID": "1410441033930919938",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1423328532671967000,
+      "Tweet_ID": "1423328532671967238",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1308606991749714000,
+      "Tweet_ID": "1308606991749713920",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1355173373953774000,
+      "Tweet_ID": "1355173373953773568",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1356071476219228000,
+      "Tweet_ID": "1356071476219228167",
       "Target_Ticker": "SPCE",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1364702641910145000,
+      "Tweet_ID": "1364702641910145026",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1380093944512455000,
+      "Tweet_ID": "1380093944512454657",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1343685660029366000,
+      "Tweet_ID": "1343685660029366272",
       "Target_Ticker": "BABA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1427527339282510000,
+      "Tweet_ID": "1427527339282509839",
       "Target_Ticker": "PLTR",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1397195863320056000,
+      "Tweet_ID": "1397195863320055812",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1400131831458984000,
+      "Tweet_ID": "1400131831458983937",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354903007264190000,
+      "Tweet_ID": "1354903007264190464",
       "Target_Ticker": "NOK",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1357365235095544000,
+      "Tweet_ID": "1357365235095543814",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1413598824216482000,
+      "Tweet_ID": "1413598824216481795",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1412211816931922000,
+      "Tweet_ID": "1412211816931921922",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1421158838414238000,
+      "Tweet_ID": "1421158838414237696",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1356990457713164000,
+      "Tweet_ID": "1356990457713164290",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354463871747183000,
+      "Tweet_ID": "1354463871747182600",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1354242472948412000,
+      "Tweet_ID": "1354242472948412416",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1356353188631204000,
+      "Tweet_ID": "1356353188631203840",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1340350798149128000,
+      "Tweet_ID": "1340350798149128195",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1371474456527376000,
+      "Tweet_ID": "1371474456527376384",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1355174383292043000,
+      "Tweet_ID": "1355174383292043266",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1354468816936260000,
+      "Tweet_ID": "1354468816936259584",
       "Target_Ticker": "NOK",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1410950594219713000,
+      "Tweet_ID": "1410950594219712516",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1386739578602770000,
+      "Tweet_ID": "1386739578602770444",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1369393489910317000,
+      "Tweet_ID": "1369393489910317057",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1353769749596041000,
+      "Tweet_ID": "1353769749596041216",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1415556035364889000,
+      "Tweet_ID": "1415556035364888578",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1420103072756519000,
+      "Tweet_ID": "1420103072756518915",
       "Target_Ticker": "BABA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1352837994869354000,
+      "Tweet_ID": "1352837994869354496",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1385892121995928000,
+      "Tweet_ID": "1385892121995927554",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1314611589345997000,
+      "Tweet_ID": "1314611589345996800",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1384534818126402000,
+      "Tweet_ID": "1384534818126401542",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1358847139229569000,
+      "Tweet_ID": "1358847139229569024",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1404845863126536000,
+      "Tweet_ID": "1404845863126536201",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1319038474276631000,
+      "Tweet_ID": "1319038474276630528",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1364548139139686000,
+      "Tweet_ID": "1364548139139686404",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1356618600644301000,
+      "Tweet_ID": "1356618600644300802",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1425823340539781000,
+      "Tweet_ID": "1425823340539781143",
       "Target_Ticker": "CLOV",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1354159247316009000,
+      "Tweet_ID": "1354159247316008960",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1416478509179019000,
+      "Tweet_ID": "1416478509179019267",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1360742631723131000,
+      "Tweet_ID": "1360742631723130880",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1334862684093886000,
+      "Tweet_ID": "1334862684093886465",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1392462862317195000,
+      "Tweet_ID": "1392462862317195265",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354135853178696000,
+      "Tweet_ID": "1354135853178695680",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1354417152615469000,
+      "Tweet_ID": "1354417152615469059",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1304469881337782000,
+      "Tweet_ID": "1304469881337782272",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1407548357556335000,
+      "Tweet_ID": "1407548357556334599",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1407025638586814000,
+      "Tweet_ID": "1407025638586814472",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1407478397132018000,
+      "Tweet_ID": "1407478397132017665",
       "Target_Ticker": "CLOV",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1331481925496828000,
+      "Tweet_ID": "1331481925496827904",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1367864710888972000,
+      "Tweet_ID": "1367864710888972289",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1329074395919184000,
+      "Tweet_ID": "1329074395919183875",
       "Target_Ticker": "ZM",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1369652253695484000,
+      "Tweet_ID": "1369652253695483908",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1405567667411599000,
+      "Tweet_ID": "1405567667411599368",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1339926392155337000,
+      "Tweet_ID": "1339926392155336704",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1412516383393473000,
+      "Tweet_ID": "1412516383393472513",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1414168836878840000,
+      "Tweet_ID": "1414168836878839809",
       "Target_Ticker": "SPCE",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354889804828164000,
+      "Tweet_ID": "1354889804828164098",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1344379140514845000,
+      "Tweet_ID": "1344379140514844672",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1355033478740509000,
+      "Tweet_ID": "1355033478740508672",
       "Target_Ticker": "NOK",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1417536400690323000,
+      "Tweet_ID": "1417536400690323458",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354834250755944000,
+      "Tweet_ID": "1354834250755944451",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1401651298794148000,
+      "Tweet_ID": "1401651298794147840",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1389743615296016000,
+      "Tweet_ID": "1389743615296016387",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1354524522750370000,
+      "Tweet_ID": "1354524522750369793",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1316797001149882000,
+      "Tweet_ID": "1316797001149882368",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1392603203745821000,
+      "Tweet_ID": "1392603203745820681",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354990290650722000,
+      "Tweet_ID": "1354990290650722309",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1356643785552372000,
+      "Tweet_ID": "1356643785552371716",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1383943407869981000,
+      "Tweet_ID": "1383943407869980683",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1426104005671801000,
+      "Tweet_ID": "1426104005671800833",
       "Target_Ticker": "SOFI",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1371838044643426000,
+      "Tweet_ID": "1371838044643426317",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354850731648496000,
+      "Tweet_ID": "1354850731648495618",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1377524941059289000,
+      "Tweet_ID": "1377524941059289090",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1336059595459006000,
+      "Tweet_ID": "1336059595459006474",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1367557333178454000,
+      "Tweet_ID": "1367557333178454016",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1403405655017464000,
+      "Tweet_ID": "1403405655017463811",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1363902791543124000,
+      "Tweet_ID": "1363902791543123982",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1417203769176121000,
+      "Tweet_ID": "1417203769176121347",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1371863129198637000,
+      "Tweet_ID": "1371863129198637057",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1400457715235770000,
+      "Tweet_ID": "1400457715235770373",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1401914477281432000,
+      "Tweet_ID": "1401914477281431562",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1412403605743849000,
+      "Tweet_ID": "1412403605743849474",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354897986476798000,
+      "Tweet_ID": "1354897986476797955",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1424865579723334000,
+      "Tweet_ID": "1424865579723333634",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354770081616720000,
+      "Tweet_ID": "1354770081616719873",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1398262998448456000,
+      "Tweet_ID": "1398262998448455680",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1355515745325642000,
+      "Tweet_ID": "1355515745325641733",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1354504488099279000,
+      "Tweet_ID": "1354504488099278851",
       "Target_Ticker": "NOK",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1405454331696931000,
+      "Tweet_ID": "1405454331696930817",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1370162622750806000,
+      "Tweet_ID": "1370162622750806016",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1313870974585049000,
+      "Tweet_ID": "1313870974585049091",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1317485996506718000,
+      "Tweet_ID": "1317485996506718210",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1430557923038597000,
+      "Tweet_ID": "1430557923038597131",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1367764849216918000,
+      "Tweet_ID": "1367764849216917505",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1409856158706328000,
+      "Tweet_ID": "1409856158706327560",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1330899615571464000,
+      "Tweet_ID": "1330899615571464194",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1416212002935083000,
+      "Tweet_ID": "1416212002935083010",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1431267696822338000,
+      "Tweet_ID": "1431267696822337539",
       "Target_Ticker": "CLOV",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1382843967641895000,
+      "Tweet_ID": "1382843967641894914",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1427871604265062000,
+      "Tweet_ID": "1427871604265062405",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1337495186847511000,
+      "Tweet_ID": "1337495186847510541",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1397492864154673000,
+      "Tweet_ID": "1397492864154673153",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1310472825246036000,
+      "Tweet_ID": "1310472825246035968",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1386480951312720000,
+      "Tweet_ID": "1386480951312719877",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1410833492292764000,
+      "Tweet_ID": "1410833492292763650",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1397496046180258000,
+      "Tweet_ID": "1397496046180257792",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1356284461399372000,
+      "Tweet_ID": "1356284461399371778",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1400506516768166000,
+      "Tweet_ID": "1400506516768165891",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1369701166662189000,
+      "Tweet_ID": "1369701166662189061",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1368371406291968000,
+      "Tweet_ID": "1368371406291968000",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1369298969717842000,
+      "Tweet_ID": "1369298969717841929",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1397579735744618000,
+      "Tweet_ID": "1397579735744618498",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1355256210333848000,
+      "Tweet_ID": "1355256210333847552",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1371489516121383000,
+      "Tweet_ID": "1371489516121382920",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354890998690808000,
+      "Tweet_ID": "1354890998690807809",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1350141806181315000,
+      "Tweet_ID": "1350141806181314564",
       "Target_Ticker": "ZM",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1356155806811611000,
+      "Tweet_ID": "1356155806811611137",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1354462906096771000,
+      "Tweet_ID": "1354462906096771077",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1386783363760022000,
+      "Tweet_ID": "1386783363760021508",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1368928052122710000,
+      "Tweet_ID": "1368928052122710019",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1384107007074988000,
+      "Tweet_ID": "1384107007074988033",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1404647861925466000,
+      "Tweet_ID": "1404647861925466113",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1398427121408786000,
+      "Tweet_ID": "1398427121408786433",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1356037172764275000,
+      "Tweet_ID": "1356037172764274688",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1418661962662117000,
+      "Tweet_ID": "1418661962662117381",
       "Target_Ticker": "BABA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1392862296796508000,
+      "Tweet_ID": "1392862296796508164",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1364684782446273000,
+      "Tweet_ID": "1364684782446272517",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1426917026745000000,
+      "Tweet_ID": "1426917026744999936",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1355951671675859000,
+      "Tweet_ID": "1355951671675858950",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1404458352084763000,
+      "Tweet_ID": "1404458352084762626",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1378020655812149000,
+      "Tweet_ID": "1378020655812149248",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1416795356445221000,
+      "Tweet_ID": "1416795356445220864",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354476783228346000,
+      "Tweet_ID": "1354476783228346371",
       "Target_Ticker": "NOK",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1363917836855480000,
+      "Tweet_ID": "1363917836855480327",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1349890953679688000,
+      "Tweet_ID": "1349890953679687681",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1356305632652128000,
+      "Tweet_ID": "1356305632652128264",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354195812419465000,
+      "Tweet_ID": "1354195812419465217",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1361794162216075000,
+      "Tweet_ID": "1361794162216075265",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1392786978626806000,
+      "Tweet_ID": "1392786978626805765",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1354503780876890000,
+      "Tweet_ID": "1354503780876890113",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354802328029696000,
+      "Tweet_ID": "1354802328029696001",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1354757146735423000,
+      "Tweet_ID": "1354757146735423490",
       "Target_Ticker": "CLOV",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1301468966393709000,
+      "Tweet_ID": "1301468966393708545",
       "Target_Ticker": "ZM",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1413825219899367000,
+      "Tweet_ID": "1413825219899367426",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1385562984001516000,
+      "Tweet_ID": "1385562984001515525",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1428654330232574000,
+      "Tweet_ID": "1428654330232573956",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1424839570923803000,
+      "Tweet_ID": "1424839570923802624",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1390860933472391000,
+      "Tweet_ID": "1390860933472391171",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354466553690001000,
+      "Tweet_ID": "1354466553690001409",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1365402719603876000,
+      "Tweet_ID": "1365402719603875841",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1353581346887672000,
+      "Tweet_ID": "1353581346887671810",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1378953545920090000,
+      "Tweet_ID": "1378953545920090113",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1422247828101943000,
+      "Tweet_ID": "1422247828101943307",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354871439715750000,
+      "Tweet_ID": "1354871439715749889",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354933208844886000,
+      "Tweet_ID": "1354933208844886025",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1407427345074504000,
+      "Tweet_ID": "1407427345074503680",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1320117586860798000,
+      "Tweet_ID": "1320117586860797952",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1300789612277723000,
+      "Tweet_ID": "1300789612277723137",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1343957468783624000,
+      "Tweet_ID": "1343957468783624197",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1356327097430651000,
+      "Tweet_ID": "1356327097430650880",
       "Target_Ticker": "NOK",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1400536203728986000,
+      "Tweet_ID": "1400536203728986115",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354938323672977000,
+      "Tweet_ID": "1354938323672977413",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1356206980961079000,
+      "Tweet_ID": "1356206980961079300",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1347715893745381000,
+      "Tweet_ID": "1347715893745381376",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1404479537635811000,
+      "Tweet_ID": "1404479537635811336",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1308531736213586000,
+      "Tweet_ID": "1308531736213585923",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1385261596088455000,
+      "Tweet_ID": "1385261596088455169",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1356635582135472000,
+      "Tweet_ID": "1356635582135472131",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354309084204380000,
+      "Tweet_ID": "1354309084204380162",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1389258373611282000,
+      "Tweet_ID": "1389258373611282439",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1392124761715659000,
+      "Tweet_ID": "1392124761715658754",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1382137240340607000,
+      "Tweet_ID": "1382137240340606980",
       "Target_Ticker": "PLTR",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1432764126082654000,
+      "Tweet_ID": "1432764126082654209",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1400844842071175000,
+      "Tweet_ID": "1400844842071175169",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1379876586804027000,
+      "Tweet_ID": "1379876586804027393",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354514433075196000,
+      "Tweet_ID": "1354514433075195904",
       "Target_Ticker": "NOK",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1324782585743090000,
+      "Tweet_ID": "1324782585743089665",
       "Target_Ticker": "TLRY",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1356075024122319000,
+      "Tweet_ID": "1356075024122318850",
       "Target_Ticker": "NOK",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1368560511550448000,
+      "Tweet_ID": "1368560511550447619",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1397980917071860000,
+      "Tweet_ID": "1397980917071859716",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354418493710602000,
+      "Tweet_ID": "1354418493710602241",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354623662192796000,
+      "Tweet_ID": "1354623662192795650",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1413087049494655000,
+      "Tweet_ID": "1413087049494654982",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1364750755761181000,
+      "Tweet_ID": "1364750755761180678",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1417642049394840000,
+      "Tweet_ID": "1417642049394839557",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1356600520383730000,
+      "Tweet_ID": "1356600520383729664",
       "Target_Ticker": "NOK",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1337219494599602000,
+      "Tweet_ID": "1337219494599602177",
       "Target_Ticker": "PFE",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1359211937851179000,
+      "Tweet_ID": "1359211937851179008",
       "Target_Ticker": "CLOV",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1400632116786893000,
+      "Tweet_ID": "1400632116786892803",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1364696376622395000,
+      "Tweet_ID": "1364696376622395397",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1404850427154293000,
+      "Tweet_ID": "1404850427154292740",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354788906173145000,
+      "Tweet_ID": "1354788906173145091",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1402620698242204000,
+      "Tweet_ID": "1402620698242203655",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1355242582671041000,
+      "Tweet_ID": "1355242582671040520",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1415826290771382000,
+      "Tweet_ID": "1415826290771382297",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1384929759902175000,
+      "Tweet_ID": "1384929759902175239",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1430293377438847000,
+      "Tweet_ID": "1430293377438846976",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1414252502178877000,
+      "Tweet_ID": "1414252502178877444",
       "Target_Ticker": "SPCE",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1412850820253733000,
+      "Tweet_ID": "1412850820253732867",
       "Target_Ticker": "BABA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1416384178539614000,
+      "Tweet_ID": "1416384178539614209",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1368951618687939000,
+      "Tweet_ID": "1368951618687938562",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1400817315025867000,
+      "Tweet_ID": "1400817315025866756",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354176022464377000,
+      "Tweet_ID": "1354176022464376839",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1392456673328050000,
+      "Tweet_ID": "1392456673328050176",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1349543685281645000,
+      "Tweet_ID": "1349543685281644544",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1370653895555420000,
+      "Tweet_ID": "1370653895555420161",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1357878722490204000,
+      "Tweet_ID": "1357878722490204163",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1355136520987017000,
+      "Tweet_ID": "1355136520987017220",
       "Target_Ticker": "BBBY",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1364941016369934000,
+      "Tweet_ID": "1364941016369934338",
       "Target_Ticker": "NOK",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1371899837415879000,
+      "Tweet_ID": "1371899837415878664",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1367011284357509000,
+      "Tweet_ID": "1367011284357509121",
       "Target_Ticker": "PLTR",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354866327761072000,
+      "Tweet_ID": "1354866327761072128",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1400471266105061000,
+      "Tweet_ID": "1400471266105061380",
       "Target_Ticker": "BB",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1423712886082335000,
+      "Tweet_ID": "1423712886082334721",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1343580628894138000,
+      "Tweet_ID": "1343580628894138368",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1395378617639711000,
+      "Tweet_ID": "1395378617639710725",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1355150690545500000,
+      "Tweet_ID": "1355150690545500169",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1402659396073800000,
+      "Tweet_ID": "1402659396073799680",
       "Target_Ticker": "TLRY",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1398103040624775000,
+      "Tweet_ID": "1398103040624775173",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1397399497970495000,
+      "Tweet_ID": "1397399497970495489",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1387046811005690000,
+      "Tweet_ID": "1387046811005689870",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1367933861892551000,
+      "Tweet_ID": "1367933861892550656",
       "Target_Ticker": "PLTR",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1362953264581530000,
+      "Tweet_ID": "1362953264581529601",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1358414015915954000,
+      "Tweet_ID": "1358414015915954178",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1367490698853954000,
+      "Tweet_ID": "1367490698853953548",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1422226576549110000,
+      "Tweet_ID": "1422226576549109763",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1347604285530526000,
+      "Tweet_ID": "1347604285530525697",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1354796066047226000,
+      "Tweet_ID": "1354796066047225862",
       "Target_Ticker": "BB",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1356181033457242000,
+      "Tweet_ID": "1356181033457242112",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1372513110364410000,
+      "Tweet_ID": "1372513110364409863",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1374474155941192000,
+      "Tweet_ID": "1374474155941191683",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1391781871659409000,
+      "Tweet_ID": "1391781871659409412",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1339251665543827000,
+      "Tweet_ID": "1339251665543827457",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354637577874244000,
+      "Tweet_ID": "1354637577874243584",
       "Target_Ticker": "BB",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354162125913154000,
+      "Tweet_ID": "1354162125913153539",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1341819183143764000,
+      "Tweet_ID": "1341819183143763975",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1353702151298576000,
+      "Tweet_ID": "1353702151298576384",
       "Target_Ticker": "BB",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354195716315378000,
+      "Tweet_ID": "1354195716315377664",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1410299187636355000,
+      "Tweet_ID": "1410299187636355078",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1378560583629345000,
+      "Tweet_ID": "1378560583629344778",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1393034865654727000,
+      "Tweet_ID": "1393034865654726656",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1396916543171203000,
+      "Tweet_ID": "1396916543171203079",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1432392036531986000,
+      "Tweet_ID": "1432392036531986433",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354703340131684000,
+      "Tweet_ID": "1354703340131684353",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1386810794164298000,
+      "Tweet_ID": "1386810794164297740",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1357005056348987000,
+      "Tweet_ID": "1357005056348987393",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354926938910028000,
+      "Tweet_ID": "1354926938910027778",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1399939483076903000,
+      "Tweet_ID": "1399939483076902916",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1364979257378705000,
+      "Tweet_ID": "1364979257378705409",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1355010854874452000,
+      "Tweet_ID": "1355010854874451971",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1364031142681281000,
+      "Tweet_ID": "1364031142681280512",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1301909844673339000,
+      "Tweet_ID": "1301909844673339392",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354443801855713000,
+      "Tweet_ID": "1354443801855713282",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354778847724581000,
+      "Tweet_ID": "1354778847724580864",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1367888404818649000,
+      "Tweet_ID": "1367888404818649090",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1398326529369776000,
+      "Tweet_ID": "1398326529369776137",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1355239746117784000,
+      "Tweet_ID": "1355239746117783552",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1379995048075391000,
+      "Tweet_ID": "1379995048075390977",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1320713998766133000,
+      "Tweet_ID": "1320713998766133251",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1384603717744407000,
+      "Tweet_ID": "1384603717744406530",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354605204059025000,
+      "Tweet_ID": "1354605204059025408",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1354473477999366000,
+      "Tweet_ID": "1354473477999366145",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1403433481426833000,
+      "Tweet_ID": "1403433481426833418",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354537343156429000,
+      "Tweet_ID": "1354537343156428802",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1428352114778993000,
+      "Tweet_ID": "1428352114778992650",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1428695272020922000,
+      "Tweet_ID": "1428695272020922368",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1430239152403100000,
+      "Tweet_ID": "1430239152403099655",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1405928327416713000,
+      "Tweet_ID": "1405928327416713216",
       "Target_Ticker": "CLOV",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1311720124425007000,
+      "Tweet_ID": "1311720124425007104",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1408214694892954000,
+      "Tweet_ID": "1408214694892953606",
       "Target_Ticker": "CLOV",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1353807092721791000,
+      "Tweet_ID": "1353807092721790977",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1376680610681479000,
+      "Tweet_ID": "1376680610681479169",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1349012960534999000,
+      "Tweet_ID": "1349012960534999041",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1372895480460542000,
+      "Tweet_ID": "1372895480460541955",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1375423249711006000,
+      "Tweet_ID": "1375423249711005700",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1353778705827561000,
+      "Tweet_ID": "1353778705827561473",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1403265924111733000,
+      "Tweet_ID": "1403265924111732739",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1313929338979594000,
+      "Tweet_ID": "1313929338979594245",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1358794727772983000,
+      "Tweet_ID": "1358794727772983300",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1355306463321846000,
+      "Tweet_ID": "1355306463321845768",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1347682834933293000,
+      "Tweet_ID": "1347682834933293057",
       "Target_Ticker": "CLOV",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1403363754360836000,
+      "Tweet_ID": "1403363754360836097",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1355196890342707000,
+      "Tweet_ID": "1355196890342707201",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1347213124181623000,
+      "Tweet_ID": "1347213124181622790",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1408412689198682000,
+      "Tweet_ID": "1408412689198682118",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1383509027531805000,
+      "Tweet_ID": "1383509027531804677",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1355913659969491000,
+      "Tweet_ID": "1355913659969490945",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1357690517002346000,
+      "Tweet_ID": "1357690517002346498",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1379555277092102000,
+      "Tweet_ID": "1379555277092102144",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1398248104735003000,
+      "Tweet_ID": "1398248104735002627",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1420839323935515000,
+      "Tweet_ID": "1420839323935514626",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1341043212027216000,
+      "Tweet_ID": "1341043212027215873",
       "Target_Ticker": "PLTR",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1307429256314618000,
+      "Tweet_ID": "1307429256314617857",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1364309553047863000,
+      "Tweet_ID": "1364309553047863305",
       "Target_Ticker": "PLTR",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1364691697473647000,
+      "Tweet_ID": "1364691697473646596",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1424982846158950000,
+      "Tweet_ID": "1424982846158950408",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1393245416846660000,
+      "Tweet_ID": "1393245416846659588",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1301871394196685000,
+      "Tweet_ID": "1301871394196684801",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1415292654720483000,
+      "Tweet_ID": "1415292654720483329",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1431339722308141000,
+      "Tweet_ID": "1431339722308141056",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1356255839321993000,
+      "Tweet_ID": "1356255839321993217",
       "Target_Ticker": "CLOV",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1400901322371596000,
+      "Tweet_ID": "1400901322371596288",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1354090886204953000,
+      "Tweet_ID": "1354090886204952576",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1412580892317475000,
+      "Tweet_ID": "1412580892317474820",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1404888675188609000,
+      "Tweet_ID": "1404888675188609024",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1359996859528458000,
+      "Tweet_ID": "1359996859528458244",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1419438970765672000,
+      "Tweet_ID": "1419438970765672455",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1339944886028689000,
+      "Tweet_ID": "1339944886028689418",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1368917969804296000,
+      "Tweet_ID": "1368917969804296192",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1355059239836766000,
+      "Tweet_ID": "1355059239836766214",
       "Target_Ticker": "BB",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1401976200776585000,
+      "Tweet_ID": "1401976200776585218",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1300742799256621000,
+      "Tweet_ID": "1300742799256621056",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1375032337096864000,
+      "Tweet_ID": "1375032337096863745",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1383689989150503000,
+      "Tweet_ID": "1383689989150502920",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1322294651836002000,
+      "Tweet_ID": "1322294651836002304",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1348957091113918000,
+      "Tweet_ID": "1348957091113918464",
       "Target_Ticker": "ZM",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1402510201341764000,
+      "Tweet_ID": "1402510201341763591",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1404525604288877000,
+      "Tweet_ID": "1404525604288876546",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1371860953814426000,
+      "Tweet_ID": "1371860953814425600",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1356994057038230000,
+      "Tweet_ID": "1356994057038229510",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1408057435168952000,
+      "Tweet_ID": "1408057435168952320",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1385362473335738000,
+      "Tweet_ID": "1385362473335738376",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354542256330568000,
+      "Tweet_ID": "1354542256330567685",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1372264458685403000,
+      "Tweet_ID": "1372264458685403139",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1404098519938613000,
+      "Tweet_ID": "1404098519938613249",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1429188595215122000,
+      "Tweet_ID": "1429188595215122436",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354584666033050000,
+      "Tweet_ID": "1354584666033049607",
       "Target_Ticker": "NOK",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1375064235475137000,
+      "Tweet_ID": "1375064235475136518",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1364933249621967000,
+      "Tweet_ID": "1364933249621966848",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1403400752077414000,
+      "Tweet_ID": "1403400752077414407",
       "Target_Ticker": "AMC",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1357063685135565000,
+      "Tweet_ID": "1357063685135564802",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1350184471299953000,
+      "Tweet_ID": "1350184471299952640",
       "Target_Ticker": "BB",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1338922321395003000,
+      "Tweet_ID": "1338922321395003398",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1352648043242390000,
+      "Tweet_ID": "1352648043242389507",
       "Target_Ticker": "CLOV",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1351631596319875000,
+      "Tweet_ID": "1351631596319875075",
       "Target_Ticker": "BB",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1375566463063364000,
+      "Tweet_ID": "1375566463063363585",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1413494567228252000,
+      "Tweet_ID": "1413494567228252160",
       "Target_Ticker": "BABA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1398322934947598000,
+      "Tweet_ID": "1398322934947598340",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1353653009109180000,
+      "Tweet_ID": "1353653009109180417",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1324439760266428000,
+      "Tweet_ID": "1324439760266428416",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1397304080939332000,
+      "Tweet_ID": "1397304080939331589",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1377338073160147000,
+      "Tweet_ID": "1377338073160146944",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1355458739617346000,
+      "Tweet_ID": "1355458739617345539",
       "Target_Ticker": "NOK",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1379148876989538000,
+      "Tweet_ID": "1379148876989538304",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1355750188816601000,
+      "Tweet_ID": "1355750188816601090",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1356006088693305000,
+      "Tweet_ID": "1356006088693305346",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1316816525391794000,
+      "Tweet_ID": "1316816525391794176",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1395037911209243000,
+      "Tweet_ID": "1395037911209242626",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1354627301942587000,
+      "Tweet_ID": "1354627301942587393",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1404460063088157000,
+      "Tweet_ID": "1404460063088156679",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1420815019512668000,
+      "Tweet_ID": "1420815019512668175",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1379122612727472000,
+      "Tweet_ID": "1379122612727472133",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1356254979317707000,
+      "Tweet_ID": "1356254979317706753",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1333808175041098000,
+      "Tweet_ID": "1333808175041097730",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1375193983912186000,
+      "Tweet_ID": "1375193983912185859",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1425815733179621000,
+      "Tweet_ID": "1425815733179621377",
       "Target_Ticker": "PLTR",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1316044263856234000,
+      "Tweet_ID": "1316044263856234496",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1400621002653118000,
+      "Tweet_ID": "1400621002653118470",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1364897641293902000,
+      "Tweet_ID": "1364897641293901826",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1403028144643318000,
+      "Tweet_ID": "1403028144643317765",
       "Target_Ticker": "GME",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1388201556085035000,
+      "Tweet_ID": "1388201556085035008",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1305961155953750000,
+      "Tweet_ID": "1305961155953750016",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1423317959380926000,
+      "Tweet_ID": "1423317959380926475",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1405390059411436000,
+      "Tweet_ID": "1405390059411435520",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1354156363878969000,
+      "Tweet_ID": "1354156363878969344",
       "Target_Ticker": "SPCE",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1400157219375751000,
+      "Tweet_ID": "1400157219375751171",
       "Target_Ticker": "BB",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1362840429440492000,
+      "Tweet_ID": "1362840429440491523",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEGATIVE"
     },
     {
-      "Tweet_ID": 1428301340908966000,
+      "Tweet_ID": "1428301340908965891",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1374454183298879000,
+      "Tweet_ID": "1374454183298879508",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1316978358949827000,
+      "Tweet_ID": "1316978358949826565",
       "Target_Ticker": "ZM",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1417173601241928000,
+      "Tweet_ID": "1417173601241927682",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1357054479963738000,
+      "Tweet_ID": "1357054479963738118",
       "Target_Ticker": "GME",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1387425912321368000,
+      "Tweet_ID": "1387425912321368070",
       "Target_Ticker": "AMC",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1311005097334194000,
+      "Tweet_ID": "1311005097334194176",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1307587417541575000,
+      "Tweet_ID": "1307587417541574657",
       "Target_Ticker": "TSLA",
       "Sentiment": "POSITIVE"
     },
     {
-      "Tweet_ID": 1410963109121085000,
+      "Tweet_ID": "1410963109121085440",
       "Target_Ticker": "CLOV",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1315328939255095000,
+      "Tweet_ID": "1315328939255095296",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1397587174569038000,
+      "Tweet_ID": "1397587174569037828",
       "Target_Ticker": "GME",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1388964106208743000,
+      "Tweet_ID": "1388964106208743431",
       "Target_Ticker": "TSLA",
       "Sentiment": "NEUTRAL"
     },
     {
-      "Tweet_ID": 1364829599079813000,
+      "Tweet_ID": "1364829599079813122",
       "Target_Ticker": "AMC",
       "Sentiment": "NEUTRAL"
     }
